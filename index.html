@@ -79,7 +79,7 @@
                             labelLower.includes('shop') ||
                             infoLower.includes('shop')
                         ) {
-                            color = 'green';
+                            color = 'blue';
                         } else if (
                             catLower.includes('farm') ||
                             labelLower.includes('farm') ||
@@ -98,6 +98,18 @@
                             infoLower.includes('wxt')
                         ) {
                             color = 'purple';
+                        } else if (
+                            catLower.includes('station') ||
+                            labelLower.includes('station') ||
+                            infoLower.includes('station')
+                        ) {
+                            color = 'green';
+                        } else if (
+                            catLower.includes('other') ||
+                            labelLower.includes('other') ||
+                            infoLower.includes('other')
+                        ) {
+                            color = 'green';
                         }
 
                         pois.push({
