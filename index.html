@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">         
+    <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="a map of the entirety of novylen">
     <title>Novymap</title>
@@ -73,43 +73,43 @@
                         const infoLower = (m.info || '').toLowerCase();
                         const catLower = (category || '').toLowerCase();
 
-                        let color = 'building';
+                        let color = 'red';
                         if (
                             catLower.includes('shop') ||
                             labelLower.includes('shop') ||
                             infoLower.includes('shop')
                         ) {
-                            color = 'trolley';
+                            color = 'green';
                         } else if (
                             catLower.includes('farm') ||
                             labelLower.includes('farm') ||
                             infoLower.includes('farm')
                         ) {
-                            color = 'factory';
+                            color = 'yellow';
                         } else if (
                             catLower.includes('pvp') ||
                             labelLower.includes('pvp') ||
                             infoLower.includes('pvp')
                         ) {
-                            color = 'building';
+                            color = 'red';
                         } else if (
                             catLower.includes('wxt') ||
                             labelLower.includes('wxt') ||
                             infoLower.includes('wxt')
                         ) {
-                            color = 'wxt';
+                            color = 'purple';
                         } else if (
                             catLower.includes('station') ||
                             labelLower.includes('station') ||
                             infoLower.includes('station')
                         ) {
-                            color = 'cart';
+                            color = 'blue';
                         } else if (
                             catLower.includes('other') ||
                             labelLower.includes('other') ||
                             infoLower.includes('other')
                         ) {
-                            color = 'flower';
+                            color = 'red';
                         }
 
                         pois.push({
@@ -375,9 +375,9 @@
                 var marker = L.marker(worldToMap(poi.x, poi.z), {
                     icon: L.icon({
                         iconUrl: "marker/" + poi.color + '-marker.png',
-                        iconSize: [16, 16],
-                        iconAnchor: [8, 16],
-                        popupAnchor: [0, -16]
+                        iconSize: [20, 30],
+                        iconAnchor: [10, 30],
+                        popupAnchor: [0, -30]
                     }),
                     name: poi.name,
                     searchText: [poi.name, poi.dial].filter(Boolean).join(' ◈ ')
