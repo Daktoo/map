@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">         
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="a map of the entirety of novylen">
     <title>Novymap</title>
@@ -376,8 +376,8 @@
                     icon: L.icon({
                         iconUrl: "marker/" + poi.color + '-marker.png',
                         iconSize: [16, 16],
-                        iconAnchor: [10, 30],
-                        popupAnchor: [0, -30]
+                        iconAnchor: [8, 16],
+                        popupAnchor: [0, -16]
                     }),
                     name: poi.name,
                     searchText: [poi.name, poi.dial].filter(Boolean).join(' ◈ ')
