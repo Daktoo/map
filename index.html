@@ -73,43 +73,43 @@
                         const infoLower = (m.info || '').toLowerCase();
                         const catLower = (category || '').toLowerCase();
 
-                        let color = 'red';
+                        let color = 'building';
                         if (
                             catLower.includes('shop') ||
                             labelLower.includes('shop') ||
                             infoLower.includes('shop')
                         ) {
-                            color = 'green';
+                            color = 'trolley';
                         } else if (
                             catLower.includes('farm') ||
                             labelLower.includes('farm') ||
                             infoLower.includes('farm')
                         ) {
-                            color = 'yellow';
+                            color = 'factory';
                         } else if (
                             catLower.includes('pvp') ||
                             labelLower.includes('pvp') ||
                             infoLower.includes('pvp')
                         ) {
-                            color = 'red';
+                            color = 'building';
                         } else if (
                             catLower.includes('wxt') ||
                             labelLower.includes('wxt') ||
                             infoLower.includes('wxt')
                         ) {
-                            color = 'purple';
+                            color = 'wxt';
                         } else if (
                             catLower.includes('station') ||
                             labelLower.includes('station') ||
                             infoLower.includes('station')
                         ) {
-                            color = 'blue';
+                            color = 'cart';
                         } else if (
                             catLower.includes('other') ||
                             labelLower.includes('other') ||
                             infoLower.includes('other')
                         ) {
-                            color = 'red';
+                            color = 'flower';
                         }
 
                         pois.push({
