@@ -8,7 +8,6 @@
                 "x": "5713",
                 "y": "65",
                 "z": "2494",
-                "icon": "cart",
                 "info": "Pawn Shop",
                 "dial": "pawnshop"
             },
@@ -18,7 +17,6 @@
                 "x": "-6739",
                 "y": "64",
                 "z": "-14762",
-                "icon": "cart",
                 "info": "Furnace Shop",
                 "dial": "furnaceshop"
             },
@@ -28,7 +26,6 @@
                 "x": "-19275",
                 "y": "68",
                 "z": "-17070",
-                "icon": "cart",
                 "info": "Rainbow Valley Shopping Centre (14 Mall)",
                 "dial": "mall mall1 mall2"
             },
@@ -38,7 +35,6 @@
                 "x": "6912",
                 "y": "24",
                 "z": "10040",
-                "icon": "cart",
                 "info": "Marc Shop",
                 "dial": "marcshop"
             },
@@ -48,7 +44,6 @@
                 "x": "-15425",
                 "y": "60",
                 "z": "15843",
-                "icon": "cart",
                 "info": "Cat Shop",
                 "dial": "catshop"
             },
@@ -58,7 +53,6 @@
                 "x": "-15893",
                 "y": "64",
                 "z": "-14511",
-                "icon": "cart",
                 "info": "Unishop",
                 "dial": "unishop"
             },
@@ -68,7 +62,6 @@
                 "x": "9458",
                 "y": "64",
                 "z": "18079",
-                "icon": "cart",
                 "info": "Tyler Shop",
                 "dial": "tylershop"
             },
@@ -78,7 +71,6 @@
                 "x": "-19420",
                 "y": "64",
                 "z": "-19601",
-                "icon": "cart",
                 "info": "eShop",
                 "dial": "ehill"
             },
@@ -88,7 +80,6 @@
                 "x": "-18909",
                 "y": "64",
                 "z": "-16787",
-                "icon": "cart",
                 "info": "Green Shop",
                 "dial": "greenshop"
             },
@@ -98,7 +89,6 @@
                 "x": "12037",
                 "y": "64",
                 "z": "-17440",
-                "icon": "cart",
                 "info": "Network For Gamers (NFG)",
                 "dial": "nfg"
             },
@@ -108,7 +98,6 @@
                 "x": "-13075",
                 "y": "64",
                 "z": "-14086",
-                "icon": "cart",
                 "info": "Felix Shop",
                 "dial": "felixshop"
             },
@@ -118,7 +107,6 @@
                 "x": "-13489",
                 "y": "64",
                 "z": "-17734",
-                "icon": "cart",
                 "info": "Get Shulker",
                 "dial": "getshulker"
             },
@@ -128,7 +116,6 @@
                 "x": "-18682",
                 "y": "64",
                 "z": "1598",
-                "icon": "cart",
                 "info": "Atom Shop",
                 "dial": "atomshop"
             },
@@ -138,7 +125,6 @@
                 "x": "11607",
                 "y": "64",
                 "z": "-11436",
-                "icon": "cart",
                 "info": "Fletmart",
                 "dial": "fletmart"
             },
@@ -148,7 +134,6 @@
                 "x": "-17768",
                 "y": "64",
                 "z": "-16673",
-                "icon": "cart",
                 "info": "Costco",
                 "dial": "costco"
             },
@@ -158,7 +143,6 @@
                 "x": "-16707",
                 "y": "64",
                 "z": "-18094",
-                "icon": "cart",
                 "info": "Sears",
                 "dial": "sears"
             },
@@ -168,7 +152,6 @@
                 "x": "-13333",
                 "y": "64",
                 "z": "-15959",
-                "icon": "cart",
                 "info": "Who Shop",
                 "dial": "whoshop"
             },
@@ -178,7 +161,6 @@
                 "x": "-1717",
                 "y": "64",
                 "z": "-6461",
-                "icon": "cart",
                 "info": "Shulk",
                 "dial": "shulk"
             },
@@ -188,7 +170,6 @@
                 "x": "-1670",
                 "y": "64",
                 "z": "-6492",
-                "icon": "cart",
                 "info": "Bulk",
                 "dial": "bulk"
             },
@@ -198,7 +179,6 @@
                 "x": "-17804",
                 "y": "64",
                 "z": "-17574",
-                "icon": "cart",
                 "info": "Bloxshop",
                 "dial": "bloxshop"
             },
@@ -208,7 +188,6 @@
                 "x": "-14132",
                 "y": "64",
                 "z": "-15440",
-                "icon": "cart",
                 "info": "Honey Cat",
                 "dial": "honeycat"
             },
@@ -218,7 +197,6 @@
                 "x": "-14470",
                 "y": "64",
                 "z": "-14230",
-                "icon": "cart",
                 "info": "Frogshop",
                 "dial": "frogshop"
             },
@@ -228,7 +206,6 @@
                 "x": "-4624",
                 "y": "64",
                 "z": "-15737",
-                "icon": "cart",
                 "info": "StIordsMall",
                 "dial": "StIordsMall"
             },
@@ -238,7 +215,6 @@
                 "x": "-18855",
                 "y": "64",
                 "z": "-16782",
-                "icon": "cart",
                 "info": "Dakshop",
                 "dial": "dakshop"
             },
@@ -248,7 +224,6 @@
                 "x": "-19158",
                 "y": "64",
                 "z": "-19074",
-                "icon": "cart",
                 "info": "Niche Arts",
                 "dial": "Nichearts"
             },
@@ -258,7 +233,6 @@
                 "x": "-19296",
                 "y": "64",
                 "z": "-19070",
-                "icon": "cart",
                 "info": "LaNiche",
                 "dial": "LaNiche"
             },
@@ -268,7 +242,6 @@
                 "x": "10081",
                 "y": "64",
                 "z": "10002",
-                "icon": "cart",
                 "info": "10k10k Shop",
                 "dial": "10k10kshop"
             },
@@ -278,7 +251,6 @@
                 "x": "-16427",
                 "y": "64",
                 "z": "-13806",
-                "icon": "cart",
                 "info": "Speakeasy Bar",
                 "dial": "speakeasy"
             },
@@ -288,7 +260,6 @@
                 "x": "-17677",
                 "y": "64",
                 "z": "-13498",
-                "icon": "cart",
                 "info": "Turtle Shop",
                 "dial": "turtleshop"
             },
@@ -298,7 +269,6 @@
                 "x": "-14618",
                 "y": "64",
                 "z": "-14018",
-                "icon": "cart",
                 "info": "Frogpride",
                 "dial": "frogpride"
             },
@@ -308,7 +278,6 @@
                 "x": "-8663",
                 "y": "64",
                 "z": "-16038",
-                "icon": "cart",
                 "info": "Creeper Shop",
                 "dial": "creepershop"
             },
@@ -318,7 +287,6 @@
                 "x": "-9587",
                 "y": "64",
                 "z": "-15661",
-                "icon": "cart",
                 "info": "Creeper Town Mall",
                 "dial": "creepermall"
             },
@@ -328,7 +296,6 @@
                 "x": "18647",
                 "y": "64",
                 "z": "-14213",
-                "icon": "cart",
                 "info": "Old Cat Shop",
                 "dial": "oldcatshop"
             },
@@ -338,7 +305,6 @@
                 "x": "-9722",
                 "y": "64",
                 "z": "-9358",
-                "icon": "cart",
                 "info": "Quad Shop",
                 "dial": "quadshop"
             },
@@ -348,7 +314,6 @@
                 "x": "-423",
                 "y": "64",
                 "z": "10246",
-                "icon": "cart",
                 "info": "Realm Store",
                 "dial": "realmstore"
             },
@@ -358,7 +323,6 @@
                 "x": "11963",
                 "y": "64",
                 "z": "-14675",
-                "icon": "cart",
                 "info": "Oante Shop",
                 "dial": "oshop"
             },
@@ -368,7 +332,6 @@
                 "x": "-19680",
                 "y": "64",
                 "z": "-16459",
-                "icon": "cart",
                 "info": "Blick Shop",
                 "dial": "Shop420"
             },
@@ -378,7 +341,6 @@
                 "x": "-14075",
                 "y": "64",
                 "z": "-14287",
-                "icon": "cart",
                 "info": "MCBoogles",
                 "dial": "mcboogles"
             },
@@ -388,7 +350,6 @@
                 "x": "-18375",
                 "y": "64",
                 "z": "-16993",
-                "icon": "cart",
                 "info": "Pride Cottage",
                 "dial": "pride"
             },
@@ -398,7 +359,6 @@
                 "x": "-7548",
                 "y": "64",
                 "z": "7840",
-                "icon": "cart",
                 "info": "Blox Brew",
                 "dial": "bloxbrew"
             },
@@ -408,7 +368,6 @@
                 "x": "-19286",
                 "y": "64",
                 "z": "-11175",
-                "icon": "cart",
                 "info": "IKEA",
                 "dial": "ikea"
             },
@@ -418,7 +377,6 @@
                 "x": "-7297",
                 "y": "64",
                 "z": "-623",
-                "icon": "cart",
                 "info": "Northern Star Shopping Centre",
                 "dial": "nssc"
             },
@@ -428,7 +386,6 @@
                 "x": "-12071",
                 "y": "64",
                 "z": "-16031",
-                "icon": "cart",
                 "info": "tomshop",
                 "dial": "tomshop"
             },
@@ -438,7 +395,6 @@
                 "x": "-14874",
                 "y": "64",
                 "z": "-12784",
-                "icon": "cart",
                 "info": "Bob Shop",
                 "dial": "bobshop"
             },
@@ -448,7 +404,6 @@
                 "x": "5906",
                 "y": "64",
                 "z": "-7205",
-                "icon": "cart",
                 "info": "Lord Shop",
                 "dial": "LordShop"
             },
@@ -458,7 +413,6 @@
                 "x": "-13231",
                 "y": "64",
                 "z": "-15960",
-                "icon": "cart",
                 "info": "Jmall (Whose Mall)",
                 "dial": "Jmall"
             },
@@ -468,7 +422,6 @@
                 "x": "-18702",
                 "y": "64",
                 "z": "-15726",
-                "icon": "cart",
                 "info": "Aly Shop",
                 "dial": "alyshop"
             },
@@ -478,7 +431,6 @@
                 "x": "-11869",
                 "y": "64",
                 "z": "-10815",
-                "icon": "cart",
                 "info": "Trial Shop",
                 "dial": "trialshop"
             },
@@ -488,7 +440,6 @@
                 "x": "-10688",
                 "y": "64",
                 "z": "-13817",
-                "icon": "cart",
                 "info": "Starlight V2 + lsshop",
                 "dial": "starlight, lsshop"
             },
@@ -498,7 +449,6 @@
                 "x": "-12200",
                 "y": "64",
                 "z": "-15562",
-                "icon": "cart",
                 "info": "Kentucky Fried Chicken",
                 "dial": "kfc"
             },
@@ -508,7 +458,6 @@
                 "x": "-18682",
                 "y": "64",
                 "z": "-16570",
-                "icon": "cart",
                 "info": "Pop Shop",
                 "dial": "POPSHOP"
             },
@@ -518,7 +467,6 @@
                 "x": "-11736",
                 "y": "64",
                 "z": "-15811",
-                "icon": "cart",
                 "info": "Nether Shop",
                 "dial": "nethershop"
             },
@@ -528,7 +476,6 @@
                 "x": "-13933",
                 "y": "64",
                 "z": "-12185",
-                "icon": "cart",
                 "info": "USSR Shop",
                 "dial": "ussrshop"
             },
@@ -538,7 +485,6 @@
                 "x": "-16900",
                 "y": "64",
                 "z": "11832",
-                "icon": "cart",
                 "info": "Malo Mart",
                 "dial": "MaloMart"
             },
@@ -548,7 +494,6 @@
                 "x": "-9791",
                 "y": "64",
                 "z": "7784",
-                "icon": "cart",
                 "info": "Teddy Shop",
                 "dial": "teddyshop"
             },
@@ -558,7 +503,6 @@
                 "x": "-12083",
                 "y": "64",
                 "z": "-11412",
-                "icon": "cart",
                 "info": "Aiden Shop",
                 "dial": "aidenshop"
             },
@@ -568,7 +512,6 @@
                 "x": "3418",
                 "y": "64",
                 "z": "19830",
-                "icon": "cart",
                 "info": "Lrif Shop",
                 "dial": "lrifshop"
             },
@@ -578,7 +521,6 @@
                 "x": "-17787",
                 "y": "64",
                 "z": "-10117",
-                "icon": "cart",
                 "info": "Maple Shop",
                 "dial": "mapleshop"
             },
@@ -588,7 +530,6 @@
                 "x": "-16453",
                 "y": "63",
                 "z": "-12462",
-                "icon": "cart",
                 "info": "Padar Shop",
                 "dial": "padarshop"
             },
@@ -598,7 +539,6 @@
                 "x": "7953",
                 "y": "65",
                 "z": "4286",
-                "icon": "cart",
                 "info": "Paul Mall",
                 "dial": "paulmall"
             },
@@ -608,7 +548,6 @@
                 "x": "7631",
                 "y": "65",
                 "z": "3881",
-                "icon": "cart",
                 "info": "Dane Shop",
                 "dial": "Daneshop"
             },
@@ -618,7 +557,6 @@
                 "x": "-2835",
                 "y": "66",
                 "z": "-11010",
-                "icon": "cart",
                 "info": "Kip Shop",
                 "dial": "kipshop"
             },
@@ -628,7 +566,6 @@
                 "x": "-19784",
                 "y": "63",
                 "z": "-15788",
-                "icon": "cart",
                 "info": "iperal",
                 "dial": "iperal"
             },
@@ -638,7 +575,6 @@
                 "x": "-12473",
                 "y": "-42",
                 "z": "-11456",
-                "icon": "cart",
                 "info": "Geode Shop",
                 "dial": "geode"
             },
@@ -648,7 +584,6 @@
                 "x": "8193",
                 "y": "64",
                 "z": "-17534",
-                "icon": "cart",
                 "info": "",
                 "dial": "roboshop"
             },
@@ -658,7 +593,6 @@
                 "x": "-14823",
                 "y": "64",
                 "z": "16282",
-                "icon": "cart",
                 "info": "",
                 "dial": "dial watershop"
             },
@@ -668,7 +602,6 @@
                 "x": "-10627",
                 "y": "64",
                 "z": "-13795",
-                "icon": "cart",
                 "info": "",
                 "dial": "trishop"
             },
@@ -678,7 +611,6 @@
                 "x": "-19018",
                 "y": "64",
                 "z": "-10122",
-                "icon": "cart",
                 "info": "",
                 "dial": "eniuushop"
             },
@@ -688,7 +620,6 @@
                 "x": "-9218",
                 "y": "64",
                 "z": "-19688",
-                "icon": "cart",
                 "info": "Bajan Shop",
                 "dial": "bajshop"
             },
@@ -698,7 +629,6 @@
                 "x": "-14692",
                 "y": "64",
                 "z": "-11638",
-                "icon": "cart",
                 "info": "",
                 "dial": "OrdawniaMarkets"
             },
@@ -708,7 +638,6 @@
                 "x": "-14823",
                 "y": "64",
                 "z": "16282",
-                "icon": "cart",
                 "info": "",
                 "dial": "watershop"
             },
@@ -718,7 +647,6 @@
                 "x": "18925",
                 "y": "64",
                 "z": "-12286",
-                "icon": "cart",
                 "info": "",
                 "dial": "amyshop"
             }

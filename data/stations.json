@@ -7,7 +7,6 @@
             "x": "-8293",
             "y": "64",
             "z": "-14652",
-            "icon": "mcminecart",
             "info": "Amutsuri Beloved Island Station",
             "dial": "N/A"
         },
@@ -17,7 +16,6 @@
             "x": "-7945",
             "y": "64",
             "z": "-14652",
-            "icon": "mcminecart",
             "info": "Aragin Station",
             "dial": "N/A"
         },
@@ -27,7 +25,6 @@
             "x": "-7169",
             "y": "64",
             "z": "-14636",
-            "icon": "mcminecart",
             "info": "Akratis Station",
             "dial": "N/A"
         },
@@ -37,7 +34,6 @@
             "x": "-6682",
             "y": "64",
             "z": "-14755",
-            "icon": "mcminecart",
             "info": "The Lord of the Furnace Station",
             "dial": "N/A"
         },
@@ -47,7 +43,6 @@
             "x": "-4849",
             "y": "64",
             "z": "-15585",
-            "icon": "mcminecart",
             "info": "13th Spawn Station",
             "dial": "N/A"
         },
@@ -57,7 +52,6 @@
             "x": "-16075",
             "y": "64",
             "z": "-15584",
-            "icon": "mcminecart",
             "info": "Market Station",
             "dial": "N/A"
         },
@@ -67,7 +61,6 @@
             "x": "-16494",
             "y": "64",
             "z": "-15878",
-            "icon": "mcminecart",
             "info": "Long Island Southern Line Interchange Station",
             "dial": "N/A"
         },
@@ -77,7 +70,6 @@
             "x": "-16768",
             "y": "64",
             "z": "-15871",
-            "icon": "mcminecart",
             "info": "Long Island Station",
             "dial": "N/A"
         },
@@ -87,7 +79,6 @@
             "x": "-17193",
             "y": "64",
             "z": "-16706",
-            "icon": "mcminecart",
             "info": "Bonnembre Station",
             "dial": "N/A"
         },
@@ -97,7 +88,6 @@
             "x": "-16768",
             "y": "64",
             "z": "-15280",
-            "icon": "mcminecart",
             "info": "GetWool Station",
             "dial": "N/A"
         },
@@ -107,7 +97,6 @@
             "x": "-18908",
             "y": "64",
             "z": "-16937",
-            "icon": "mcminecart",
             "info": "Diamond Town Station",
             "dial": "N/A"
         },
@@ -117,7 +106,6 @@
             "x": "-18900",
             "y": "64",
             "z": "-16823",
-            "icon": "mcminecart",
             "info": "Dak Intersection",
             "dial": "Dakto_2 hotel"
         },
@@ -127,7 +115,6 @@
             "x": "-18872",
             "y": "64",
             "z": "-16744",
-            "icon": "mcminecart",
             "info": "South West Station",
             "dial": "SOUTHWEST"
         },
@@ -137,7 +124,6 @@
             "x": "-18800",
             "y": "64",
             "z": "-16664",
-            "icon": "mcminecart",
             "info": "Gray-Star Station",
             "dial": "3"
         },
@@ -147,7 +133,6 @@
             "x": "-18767",
             "y": "64",
             "z": "-16627",
-            "icon": "mcminecart",
             "info": "l7village Station",
             "dial": "N/A"
         },
@@ -157,7 +142,6 @@
             "x": "-18778",
             "y": "64",
             "z": "-16732",
-            "icon": "mcminecart",
             "info": "South East Station",
             "dial": "SOUTHEAST"
         },
@@ -167,7 +151,6 @@
             "x": "-18638",
             "y": "64",
             "z": "-12084",
-            "icon": "mcminecart",
             "info": "Tround Station",
             "dial": "N/A"
         },
@@ -177,7 +160,6 @@
             "x": "-18225",
             "y": "64",
             "z": "-12198",
-            "icon": "mcminecart",
             "info": "Skye Station",
             "dial": "sky"
         },
@@ -187,7 +169,6 @@
             "x": "-17394",
             "y": "64",
             "z": "-13745",
-            "icon": "mcminecart",
             "info": "Dylainia Station",
             "dial": "N/A"
         },
@@ -197,7 +178,6 @@
             "x": "-17068",
             "y": "64",
             "z": "-14361",
-            "icon": "mcminecart",
             "info": "Getbamboo3 Station",
             "dial": "getbamboo3"
         },
@@ -207,7 +187,6 @@
             "x": "-16227",
             "y": "64",
             "z": "-16253",
-            "icon": "mcminecart",
             "info": "Herotown Station",
             "dial": "HT"
         },
@@ -217,7 +196,6 @@
             "x": "-16429",
             "y": "64",
             "z": "-17253",
-            "icon": "mcminecart",
             "info": "Ksi Station",
             "dial": "N/A"
         },
@@ -227,7 +205,6 @@
             "x": "-14791",
             "y": "64",
             "z": "-17576",
-            "icon": "mcminecart",
             "info": "Herotown Jail Station",
             "dial": "jail"
         },
@@ -237,7 +214,6 @@
             "x": "-14161",
             "y": "64",
             "z": "-17318",
-            "icon": "mcminecart",
             "info": "2Finity Station",
             "dial": "N/A"
         },
@@ -247,7 +223,6 @@
             "x": "-14160",
             "y": "64",
             "z": "-17262",
-            "icon": "mcminecart",
             "info": "Land Of Eaga Station",
             "dial": "LandOfEaga"
         },
@@ -257,7 +232,6 @@
             "x": "-12448",
             "y": "64",
             "z": "-16527",
-            "icon": "mcminecart",
             "info": "Get Warden Station",
             "dial": "getwarden"
         },
@@ -267,7 +241,6 @@
             "x": "-10788",
             "y": "64",
             "z": "-15837",
-            "icon": "mcminecart",
             "info": "Underbedrock Line Interchange Station",
             "dial": "ubb"
         },
@@ -277,7 +250,6 @@
             "x": "-10781",
             "y": "64",
             "z": "-15084",
-            "icon": "mcminecart",
             "info": "Agasir River Station",
             "dial": "N/A"
         },
@@ -287,7 +259,6 @@
             "x": "-8923",
             "y": "64",
             "z": "-14652",
-            "icon": "mcminecart",
             "info": "Sakratis Station",
             "dial": "N/A"
         },
@@ -297,7 +268,6 @@
             "x": "-10781",
             "y": "64",
             "z": "-14920",
-            "icon": "mcminecart",
             "info": "Tround2 Station",
             "dial": "N/A"
         },
@@ -307,7 +277,6 @@
             "x": "-11029",
             "y": "64",
             "z": "-14913",
-            "icon": "mcminecart",
             "info": "Chaotica Station",
             "dial": "chaotica"
         },
@@ -317,7 +286,6 @@
             "x": "-19810",
             "y": "64",
             "z": "-19362",
-            "icon": "mcminecart",
             "info": "Retroville Station",
             "dial": "retroville"
         },
@@ -327,7 +295,6 @@
             "x": "-18995",
             "y": "64",
             "z": "-19026",
-            "icon": "mcminecart",
             "info": "NFGshop Station",
             "dial": "19k19k"
         },
@@ -337,7 +304,6 @@
             "x": "-18951",
             "y": "64",
             "z": "-16959",
-            "icon": "mcminecart",
             "info": "14spawn Station",
             "dial": "N/A"
         },
@@ -347,7 +313,6 @@
             "x": "-18457",
             "y": "64",
             "z": "-16860",
-            "icon": "mcminecart",
             "info": "Dropper Station",
             "dial": "N/A"
         },
@@ -357,7 +322,6 @@
             "x": "-17801",
             "y": "64",
             "z": "-16694",
-            "icon": "mcminecart",
             "info": "Subpartown Station",
             "dial": "N/A"
         },
@@ -367,7 +331,6 @@
             "x": "-17157",
             "y": "64",
             "z": "-16716",
-            "icon": "mcminecart",
             "info": "Tround1 Station",
             "dial": "N/A"
         },
@@ -377,7 +340,6 @@
             "x": "-16822",
             "y": "64",
             "z": "-17513",
-            "icon": "mcminecart",
             "info": "Lionquartz Station",
             "dial": "N/A"
         },
@@ -387,7 +349,6 @@
             "x": "-16831",
             "y": "64",
             "z": "-18012",
-            "icon": "mcminecart",
             "info": "Sears Station",
             "dial": "N/A"
         },
@@ -397,7 +358,6 @@
             "x": "-14776",
             "y": "64",
             "z": "-18774",
-            "icon": "mcminecart",
             "info": "Christmas Station",
             "dial": "XmaxVillage"
         },
@@ -407,7 +367,6 @@
             "x": "-16686",
             "y": "64",
             "z": "-14089",
-            "icon": "mcminecart",
             "info": "Octapoly Station",
             "dial": "Octapoly"
         },
@@ -417,7 +376,6 @@
             "x": "-19084",
             "y": "64",
             "z": "-16960",
-            "icon": "mcminecart",
             "info": "Spawn Cavern Station",
             "dial": "N/A"
         },
@@ -427,7 +385,6 @@
             "x": "-13355",
             "y": "64",
             "z": "-17064",
-            "icon": "mcminecart",
             "info": "Ramil Station",
             "dial": "krumovo"
         },
@@ -437,7 +394,6 @@
             "x": "-19192",
             "y": "64",
             "z": "-15728",
-            "icon": "mcminecart",
             "info": "Loustro Base Station",
             "dial": "N/A"
         },
@@ -447,7 +403,6 @@
             "x": "-19250",
             "y": "64",
             "z": "-15390",
-            "icon": "mcminecart",
             "info": "BADville Station",
             "dial": "NurseBAD"
         },
@@ -457,7 +412,6 @@
             "x": "-19536",
             "y": "64",
             "z": "-15330",
-            "icon": "mcminecart",
             "info": "BADville Sauna Station",
             "dial": "SwampyWheat"
         },
@@ -467,7 +421,6 @@
             "x": "-19552",
             "y": "64",
             "z": "-13008",
-            "icon": "mcminecart",
             "info": "VISMITHIV Library Station",
             "dial": "N/A"
         },
@@ -477,7 +430,6 @@
             "x": "-19418",
             "y": "64",
             "z": "-12508",
-            "icon": "mcminecart",
             "info": "VISMITHIIV Base Station",
             "dial": "VISMITHIV"
         },
@@ -487,7 +439,6 @@
             "x": "-19419",
             "y": "64",
             "z": "-12153",
-            "icon": "mcminecart",
             "info": "Nokia Station Fall Line",
             "dial": "N/A"
         },
@@ -497,7 +448,6 @@
             "x": "-13489",
             "y": "64",
             "z": "5269",
-            "icon": "mcminecart",
             "info": "Cthulhuland Farming District Station",
             "dial": "N/A"
         },
@@ -507,7 +457,6 @@
             "x": "-12777",
             "y": "64",
             "z": "5531",
-            "icon": "mcminecart",
             "info": "Cthulhuland Station",
             "dial": "ctl"
         },
@@ -517,7 +466,6 @@
             "x": "-18438",
             "y": "64",
             "z": "-12202",
-            "icon": "mcminecart",
             "info": "Cthulhu Express Interchange Station",
             "dial": "N/A"
         },
@@ -527,7 +475,6 @@
             "x": "-18361",
             "y": "64",
             "z": "-14261",
-            "icon": "mcminecart",
             "info": "LunaHQ Station",
             "dial": "N/A"
         },
@@ -537,7 +484,6 @@
             "x": "-18728",
             "y": "64",
             "z": "-16459",
-            "icon": "mcminecart",
             "info": "Diamond Town South Station",
             "dial": "N/A"
         },
@@ -547,7 +493,6 @@
             "x": "-19979",
             "y": "64",
             "z": "-11808",
-            "icon": "mcminecart",
             "info": "Getwood2 Station",
             "dial": "N/A"
         },
@@ -557,7 +502,6 @@
             "x": "-5331",
             "y": "64",
             "z": "-15519",
-            "icon": "mcminecart",
             "info": "Windlush Station",
             "dial": "N/A"
         },
@@ -567,7 +511,6 @@
             "x": "-10780",
             "y": "64",
             "z": "-14994",
-            "icon": "mcminecart",
             "info": "AR/WL Interchange Station 1",
             "dial": "N/A"
         },
@@ -577,7 +520,6 @@
             "x": "-16816",
             "y": "64",
             "z": "-14994",
-            "icon": "mcminecart",
             "info": "AR/WL Interchange Station 2",
             "dial": "N/A"
         },
@@ -587,7 +529,6 @@
             "x": "-18439",
             "y": "64",
             "z": "-12201",
-            "icon": "mcminecart",
             "info": "WL/CE/CETRD2 Interchange Station",
             "dial": "N/A"
         },
@@ -597,7 +538,6 @@
             "x": "-18336",
             "y": "64",
             "z": "-12424",
-            "icon": "mcminecart",
             "info": "Cthulhu Express Rest Stop",
             "dial": "RailToCTH-RS"
         },
@@ -607,7 +547,6 @@
             "x": "-5765",
             "y": "64",
             "z": "-15886",
-            "icon": "mcminecart",
             "info": "Rootrail Main Station",
             "dial": "rootrail"
         },
@@ -617,7 +556,6 @@
             "x": "-9981",
             "y": "66",
             "z": "-5678",
-            "icon": "mcminecart",
             "info": "Amzos Interchange Station",
             "dial": "N/A"
         },
@@ -627,7 +565,6 @@
             "x": "-10795",
             "y": "70",
             "z": "-16253",
-            "icon": "mcminecart",
             "info": "THE LAKE OF DEPAIR ",
             "dial": "N/A"
         },
@@ -637,7 +574,6 @@
             "x": "-16855",
             "y": "72",
             "z": "-14607",
-            "icon": "mcminecart",
             "info": "getsuger2 stastion",
             "dial": "N/A"
         },
@@ -647,7 +583,6 @@
             "x": "-17469",
             "y": "65",
             "z": "-12996",
-            "icon": "mcminecart",
             "info": "Cherry Line Warden Line Interchange Station",
             "dial": "N/A"
         },
@@ -657,7 +592,6 @@
             "x": "-12909",
             "y": "57",
             "z": "5124",
-            "icon": "mcminecart",
             "info": "Cthulhuland North Station",
             "dial": "N/A"
         },
@@ -667,7 +601,6 @@
             "x": "-12887",
             "y": "57",
             "z": "5322",
-            "icon": "mcminecart",
             "info": "Cthulhuland Central Metro Station",
             "dial": "N/A"
         },
@@ -677,7 +610,6 @@
             "x": "-12903",
             "y": "54",
             "z": "5657",
-            "icon": "mcminecart",
             "info": "Cthulhuland Downtown Metro Station",
             "dial": "N/A"
         },
@@ -687,7 +619,6 @@
             "x": "-12923",
             "y": "35",
             "z": "5674",
-            "icon": "mcminecart",
             "info": "Lower Bay Metro Station",
             "dial": "N/A"
         },
@@ -697,7 +628,6 @@
             "x": "-19769",
             "y": "64",
             "z": "19810",
-            "icon": "building",
             "info": "Char",
             "dial": "Char"
         },
@@ -707,7 +637,6 @@
             "x": "11989",
             "y": "64",
             "z": "19980",
-            "icon": "building",
             "info": "border",
             "dial": "border"
         },
@@ -717,7 +646,6 @@
             "x": "20000",
             "y": "64",
             "z": "20000",
-            "icon": "building",
             "info": "southeast",
             "dial": "southeast"
         }

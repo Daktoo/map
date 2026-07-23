@@ -8,7 +8,6 @@
                 "x": "7677",
                 "y": "65",
                 "z": "4060",
-                "icon": "door",
                 "info": "West 8Spawn",
                 "dial": "westspawn"
             },
@@ -18,7 +17,6 @@
                 "x": "-15015",
                 "y": "69",
                 "z": "7312",
-                "icon": "door",
                 "info": "Riverside",
                 "dial": "Riverside"
             }

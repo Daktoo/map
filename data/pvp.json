@@ -7,7 +7,6 @@
             "x": "10209",
             "y": "64",
             "z": "-3340",
-            "icon": "pvp",
             "info": "Get Killed",
             "dial": "getkilled"
         },
@@ -17,7 +16,6 @@
             "x": "6048",
             "y": "64",
             "z": "-8025",
-            "icon": "pvp",
             "info": "sumo",
             "dial": "SUMO"
         },
@@ -27,7 +25,6 @@
             "x": "-7182",
             "y": "64",
             "z": "-9409",
-            "icon": "pvp",
             "info": "SkyBattle",
             "dial": "N/A"
         },
@@ -37,7 +34,6 @@
             "x": "-12992",
             "y": "64",
             "z": "5412",
-            "icon": "pvp",
             "info": "Cthulhuland Sumo",
             "dial": "sumo"
         },
@@ -47,7 +43,6 @@
             "x": "-19962",
             "y": "64",
             "z": "-14356",
-            "icon": "pvp",
             "info": "Red PVP",
             "dial": "redpvp"
         },
@@ -57,7 +52,6 @@
             "x": "-12882",
             "y": "64",
             "z": "1779",
-            "icon": "pvp",
             "info": "warzone",
             "dial": "warzone"
         },
@@ -67,7 +61,6 @@
             "x": "-14621",
             "y": "64",
             "z": "-13855",
-            "icon": "pvp",
             "info": "ffarena",
             "dial": "ffarena"
         },
@@ -77,7 +70,6 @@
             "x": "-13215",
             "y": "-43",
             "z": "-15272",
-            "icon": "pvp",
             "info": "arena",
             "dial": "arena"
         },
@@ -87,7 +79,6 @@
             "x": "2031",
             "y": "72",
             "z": "6419",
-            "icon": "pvp",
             "info": "kotl",
             "dial": "kotl"
         },
@@ -97,7 +88,6 @@
             "x": "1994",
             "y": "72",
             "z": "6431",
-            "icon": "pvp",
             "info": "cowhouse",
             "dial": "N/A"
         }

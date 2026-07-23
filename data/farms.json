@@ -7,7 +7,6 @@
             "x": "11920",
             "y": "-14",
             "z": "-14670",
-            "icon": "factory",
             "info": "Get Powder",
             "dial": "getpowder"
         },
@@ -17,7 +16,6 @@
             "x": "-13804",
             "y": "71",
             "z": "-14477",
-            "icon": "factory",
             "info": "Get Mud",
             "dial": "getmud"
         },
@@ -27,7 +25,6 @@
             "x": "-16720",
             "y": "75",
             "z": "-15276",
-            "icon": "factory",
             "info": "Get Wool",
             "dial": "getwool"
         },
@@ -37,7 +34,6 @@
             "x": "-6982",
             "y": "22",
             "z": "16694",
-            "icon": "factory",
             "info": "Calvin Guardian Farm",
             "dial": "catlantis"
         },
@@ -47,7 +43,6 @@
             "x": "-18694",
             "y": "155",
             "z": "-14996",
-            "icon": "factory",
             "info": "Get Bamboo",
             "dial": "getbamboo"
         },
@@ -57,7 +52,6 @@
             "x": "-19241",
             "y": "-58",
             "z": "-10734",
-            "icon": "factory",
             "info": "Get Bamboo 2",
             "dial": "getbamboo2 getplank"
         },
@@ -67,7 +61,6 @@
             "x": "10700",
             "y": "64",
             "z": "-16236",
-            "icon": "factory",
             "info": "Raid Farm",
             "dial": "raidfarm"
         },
@@ -77,7 +70,6 @@
             "x": "-4515",
             "y": "64",
             "z": "-16310",
-            "icon": "factory",
             "info": "Get Mob",
             "dial": "getmob"
         },
@@ -87,7 +79,6 @@
             "x": "9466",
             "y": "64",
             "z": "17929",
-            "icon": "factory",
             "info": "Get Mossed",
             "dial": "getmossed"
         },
@@ -97,7 +88,6 @@
             "x": "-4318",
             "y": "64",
             "z": "-18113",
-            "icon": "factory",
             "info": "Get Slime",
             "dial": "getslime"
         },
@@ -107,7 +97,6 @@
             "x": "10307",
             "y": "64",
             "z": "-12983",
-            "icon": "factory",
             "info": "Spider Yeet",
             "dial": "spideryeet"
         },
@@ -117,7 +106,6 @@
             "x": "1021",
             "y": "64",
             "z": "-4633",
-            "icon": "factory",
             "info": "Big Farm",
             "dial": "bigfarm"
         },
@@ -127,7 +115,6 @@
             "x": "-17299",
             "y": "64",
             "z": "-16106",
-            "icon": "factory",
             "info": "Public Farm",
             "dial": "farm"
         },
@@ -137,7 +124,6 @@
             "x": "7131",
             "y": "64",
             "z": "9462",
-            "icon": "factory",
             "info": "Get Cow",
             "dial": "getcow"
         },
@@ -147,7 +133,6 @@
             "x": "-7569",
             "y": "64",
             "z": "-1017",
-            "icon": "factory",
             "info": "Get Wood",
             "dial": "getwood"
         },
@@ -157,7 +142,6 @@
             "x": "-4608",
             "y": "64",
             "z": "-19266",
-            "icon": "factory",
             "info": "Get String",
             "dial": "getstring"
         },
@@ -167,7 +151,6 @@
             "x": "558",
             "y": "64",
             "z": "7414",
-            "icon": "factory",
             "info": "Get Sugar",
             "dial": "getsugar"
         },
@@ -177,7 +160,6 @@
             "x": "-10840",
             "y": "64",
             "z": "-16108",
-            "icon": "factory",
             "info": "Get Paper",
             "dial": "getsuger getpaper"
         },
@@ -187,7 +169,6 @@
             "x": "-17097",
             "y": "64",
             "z": "-2180",
-            "icon": "factory",
             "info": "Get Iron",
             "dial": "getiron"
         },
@@ -197,7 +178,6 @@
             "x": "-15598",
             "y": "64",
             "z": "-16832",
-            "icon": "factory",
             "info": "Get Moss",
             "dial": "getmoss"
         },
@@ -207,7 +187,6 @@
             "x": "-15577",
             "y": "64",
             "z": "-16830",
-            "icon": "factory",
             "info": "Get Cactus",
             "dial": "getcactus"
         },
@@ -217,7 +196,6 @@
             "x": "-15547",
             "y": "64",
             "z": "-16830",
-            "icon": "factory",
             "info": "Get Egg",
             "dial": "getegg"
         },
@@ -227,7 +205,6 @@
             "x": "-15542",
             "y": "64",
             "z": "-16835",
-            "icon": "factory",
             "info": "Get Wheatz",
             "dial": "getwheatz"
         },
@@ -237,7 +214,6 @@
             "x": "-15953",
             "y": "64",
             "z": "-14415",
-            "icon": "factory",
             "info": "Get Honey",
             "dial": "gethoney"
         },
@@ -247,7 +223,6 @@
             "x": "-19147",
             "y": "64",
             "z": "-10878",
-            "icon": "factory",
             "info": "Get Sculk",
             "dial": "getsculk"
         },
@@ -257,7 +232,6 @@
             "x": "-19287",
             "y": "64",
             "z": "-10708",
-            "icon": "factory",
             "info": "Get Sculk 2",
             "dial": "getsculk2"
         },
@@ -267,7 +241,6 @@
             "x": "4030",
             "y": "64",
             "z": "4957",
-            "icon": "factory",
             "info": "Quarry",
             "dial": "Quarry quarry getsand getclay"
         },
@@ -277,7 +250,6 @@
             "x": "-14351",
             "y": "64",
             "z": "-14690",
-            "icon": "factory",
             "info": "Get Drowned",
             "dial": "getdrowned"
         },
@@ -287,7 +259,6 @@
             "x": "9835",
             "y": "64",
             "z": "6953",
-            "icon": "factory",
             "info": "Get Ink",
             "dial": "getink"
         },
@@ -297,7 +268,6 @@
             "x": "-18272",
             "y": "64",
             "z": "-19699",
-            "icon": "factory",
             "info": "Get Ink 2",
             "dial": "getink2"
         },
@@ -307,7 +277,6 @@
             "x": "-19656",
             "y": "64",
             "z": "-15668",
-            "icon": "factory",
             "info": "Get Kelp",
             "dial": "getkelp"
         },
@@ -317,7 +286,6 @@
             "x": "-17066",
             "y": "64",
             "z": "-14361",
-            "icon": "factory",
             "info": "Get Bamboo 3",
             "dial": "getbamboo3 getplank2"
         },
@@ -327,7 +295,6 @@
             "x": "-10923",
             "y": "64",
             "z": "-16101",
-            "icon": "factory",
             "info": "Get Bamboo 4",
             "dial": "getbamboo4 getplank3"
         },
@@ -337,7 +304,6 @@
             "x": "-11046",
             "y": "64",
             "z": "-15759",
-            "icon": "factory",
             "info": "Get Bamboo 5",
             "dial": "getbamboo5 getplank4"
         },
@@ -347,7 +313,6 @@
             "x": "8976",
             "y": "64",
             "z": "3968",
-            "icon": "factory",
             "info": "Get Chicken",
             "dial": "getchicken"
         },
@@ -357,7 +322,6 @@
             "x": "-4281",
             "y": "64",
             "z": "-18879",
-            "icon": "factory",
             "info": "Get Iron 3",
             "dial": "getiron3"
         },
@@ -367,7 +331,6 @@
             "x": "-15895",
             "y": "64",
             "z": "-19893",
-            "icon": "factory",
             "info": "Crepy",
             "dial": "crepy"
         },
@@ -377,7 +340,6 @@
             "x": "-12438",
             "y": "64",
             "z": "-16541",
-            "icon": "factory",
             "info": "Get Warden",
             "dial": "getwarden"
         },
@@ -387,7 +349,6 @@
             "x": "-17741",
             "y": "64",
             "z": "-11510",
-            "icon": "factory",
             "info": "Get Pillager",
             "dial": "getpill"
         },
@@ -397,7 +358,6 @@
             "x": "-19989",
             "y": "64",
             "z": "-11809",
-            "icon": "factory",
             "info": "Get wood 2",
             "dial": "getwood2"
         },
@@ -407,7 +367,6 @@
             "x": "-18916",
             "y": "64",
             "z": "-16855",
-            "icon": "factory",
             "info": "Get Deepslate",
             "dial": "getdeepslate gds"
         },
@@ -417,7 +376,6 @@
             "x": "-15066",
             "y": "140",
             "z": "-731",
-            "icon": "factory",
             "info": "Get Witch",
             "dial": "getwitch"
         },
@@ -427,7 +385,6 @@
             "x": "-7386",
             "y": "64",
             "z": "-15036",
-            "icon": "factory",
             "info": "Get Witch2",
             "dial": "getwitch2"
         },
@@ -437,7 +394,6 @@
             "x": "-19527",
             "y": "64",
             "z": "-13952",
-            "icon": "factory",
             "info": "Get Cherry",
             "dial": "getcherry cw"
         },
@@ -447,7 +403,6 @@
             "x": "-13481",
             "y": "64",
             "z": "5253",
-            "icon": "factory",
             "info": "Cthulhuland CTR",
             "dial": "CTR"
         },
@@ -457,7 +412,6 @@
             "x": "-18101",
             "y": "64",
             "z": "-11536",
-            "icon": "factory",
             "info": "Public Mine",
             "dial": "mine"
         },
@@ -467,7 +421,6 @@
             "x": "-17228",
             "y": "64",
             "z": "-19840",
-            "icon": "factory",
             "info": "Zenjo Gold Farm",
             "dial": "zenjo"
         },
@@ -477,7 +430,6 @@
             "x": "-19525",
             "y": "64",
             "z": "-13563",
-            "icon": "factory",
             "info": "Getoak",
             "dial": "getoak ow"
         },
@@ -487,7 +439,6 @@
             "x": "-19525",
             "y": "64",
             "z": "-13691",
-            "icon": "factory",
             "info": "Getmangrove",
             "dial": "mw"
         },
@@ -497,7 +448,6 @@
             "x": "-19525",
             "y": "64",
             "z": "-14331",
-            "icon": "factory",
             "info": "Get birch",
             "dial": "getbirch bw"
         },
@@ -507,7 +457,6 @@
             "x": "-7488",
             "y": "64",
             "z": "-10019",
-            "icon": "factory",
             "info": "Mesa",
             "dial": "mesa"
         },
@@ -517,7 +466,6 @@
             "x": "-11757",
             "y": "64",
             "z": "-15698",
-            "icon": "factory",
             "info": "Cave Spider Farm",
             "dial": "cavespider"
         },
@@ -527,7 +475,6 @@
             "x": "6701",
             "y": "64",
             "z": "9710",
-            "icon": "factory",
             "info": "Get pussy",
             "dial": "getpussy, getcat"
         },
@@ -537,7 +484,6 @@
             "x": "-13929",
             "y": "64",
             "z": "-12814",
-            "icon": "factory",
             "info": "Dungeons of Destiny",
             "dial": "destiny2"
         },
@@ -547,7 +493,6 @@
             "x": "-11583",
             "y": "64",
             "z": "-11346",
-            "icon": "factory",
             "info": "Get Red Sand",
             "dial": "getredsand"
         },
@@ -557,7 +502,6 @@
             "x": "-16285",
             "y": "64",
             "z": "-14899",
-            "icon": "factory",
             "info": "Quad Farm",
             "dial": "quadfarm"
         },
@@ -567,7 +511,6 @@
             "x": "-19294",
             "y": "64",
             "z": "-10718",
-            "icon": "factory",
             "info": "Get Dog Armor",
             "dial": "getdogarmour getarmadillo getarmour getarmor"
         },
@@ -577,7 +520,6 @@
             "x": "-13212",
             "y": "64",
             "z": "-11753",
-            "icon": "factory",
             "info": "Moonlight XP Farm",
             "dial": "moonlight"
         },
@@ -587,7 +529,6 @@
             "x": "7460",
             "y": "64",
             "z": "9855",
-            "icon": "factory",
             "info": "Get Scutes",
             "dial": "getscutes"
         },
@@ -597,7 +538,6 @@
             "x": "-13532",
             "y": "64",
             "z": "-17740",
-            "icon": "factory",
             "info": "Get Iron 4",
             "dial": "getiron4"
         },
@@ -607,7 +547,6 @@
             "x": "-14607",
             "y": "64",
             "z": "-10869",
-            "icon": "factory",
             "info": "Night Court Public Trials",
             "dial": "trials"
         },
@@ -617,7 +556,6 @@
             "x": "-8472",
             "y": "64",
             "z": "-10352",
-            "icon": "factory",
             "info": "Dog Erald",
             "dial": "df"
         },
@@ -627,7 +565,6 @@
             "x": "-7902",
             "y": "64",
             "z": "-9891",
-            "icon": "factory",
             "info": "Lord Farm",
             "dial": "Lord-Farm"
         },
@@ -637,7 +574,6 @@
             "x": "-7457",
             "y": "64",
             "z": "-8826",
-            "icon": "factory",
             "info": "Castle Farm",
             "dial": "castlefarm"
         },
@@ -647,7 +583,6 @@
             "x": "-10701",
             "y": "64",
             "z": "-13848",
-            "icon": "factory",
             "info": "Get Petal",
             "dial": "getpetal"
         },
@@ -657,7 +592,6 @@
             "x": "-10663",
             "y": "64",
             "z": "-13839",
-            "icon": "factory",
             "info": "Get Splash",
             "dial": "getsplash"
         },
@@ -667,7 +601,6 @@
             "x": "-7464",
             "y": "64",
             "z": "-2335",
-            "icon": "factory",
             "info": "Valley of Wheat",
             "dial": "valleyofwheat"
         },
@@ -677,7 +610,6 @@
             "x": "-16949",
             "y": "64",
             "z": "-14972",
-            "icon": "factory",
             "info": "Dakto Mob Farm",
             "dial": "Daktomob"
         },
@@ -687,7 +619,6 @@
             "x": "-19893",
             "y": "64",
             "z": "-15376",
-            "icon": "factory",
             "info": "Get More Wood",
             "dial": "GetMoreWood"
         },
@@ -697,7 +628,6 @@
             "x": "5718",
             "y": "64",
             "z": "16485",
-            "icon": "factory",
             "info": "Shulker",
             "dial": "shulker"
         },
@@ -707,7 +637,6 @@
             "x": "-9667",
             "y": "64",
             "z": "-9014",
-            "icon": "factory",
             "info": "Get Concrete",
             "dial": "getconcrete"
         },
@@ -717,7 +646,6 @@
             "x": "-19526",
             "y": "64",
             "z": "-14080",
-            "icon": "factory",
             "info": "Get Jungle",
             "dial": "getjungle jw"
         },
@@ -727,7 +655,6 @@
             "x": "-19546",
             "y": "64",
             "z": "-14080",
-            "icon": "factory",
             "info": "get coco",
             "dial": "cocoa coco"
         },
@@ -737,7 +664,6 @@
             "x": "-19526",
             "y": "64",
             "z": "-14208",
-            "icon": "factory",
             "info": "Get Dark Oak",
             "dial": "getdarkoak dw"
         },
@@ -747,7 +673,6 @@
             "x": "-14197",
             "y": "80",
             "z": "-17848",
-            "icon": "factory",
             "info": "Get Stacking",
             "dial": "getstacking"
         },
@@ -757,7 +682,6 @@
             "x": "-16619",
             "y": "68",
             "z": "-12361",
-            "icon": "factory",
             "info": "Get Fungus",
             "dial": "getfungus"
         },
@@ -767,7 +691,6 @@
             "x": "-10558",
             "y": "63",
             "z": "-16046",
-            "icon": "factory",
             "info": "Get Fishing",
             "dial": "getfishing"
         },
@@ -777,7 +700,6 @@
             "x": "-12731",
             "y": "94",
             "z": "-17313",
-            "icon": "factory",
             "info": "Get Gold 1",
             "dial": "getgold1"
         },
@@ -787,7 +709,6 @@
             "x": "-16856",
             "y": "66",
             "z": "-14615",
-            "icon": "factory",
             "info": "getsuger2",
             "dial": "getsuger2"
         },
@@ -797,7 +718,6 @@
             "x": "-17545",
             "y": "63",
             "z": "-12184",
-            "icon": "factory",
             "info": "GoldWinXP",
             "dial": "GoldWinXP"
         },
@@ -807,7 +727,6 @@
             "x": "-295",
             "y": "64",
             "z": "10198",
-            "icon": "farm",
             "info": ""
         },
         "978": {
@@ -816,7 +735,6 @@
             "x": "6555",
             "y": "64",
             "z": "16312",
-            "icon": "farm",
             "info": "",
             "dial": "carrots"
         },
@@ -826,7 +744,6 @@
             "x": "-4214",
             "y": "64",
             "z": "784",
-            "icon": "farm",
             "info": "ghast farm",
             "dial": "ghast"
         },
@@ -836,7 +753,6 @@
             "x": "5723",
             "y": "64",
             "z": "16435",
-            "icon": "farm",
             "info": "creeper farm",
             "dial": "gunpowder"
         },
@@ -846,7 +762,6 @@
             "x": "11526",
             "y": "64",
             "z": "-12110",
-            "icon": "farm",
             "info": "villager trading hall",
             "dial": "getemeralds"
         },
@@ -856,7 +771,6 @@
             "x": "5632",
             "y": "64",
             "z": "6311",
-            "icon": "farm",
             "info": "",
             "dial": "getpearls"
         },
@@ -866,7 +780,6 @@
             "x": "7611",
             "y": "64",
             "z": "17525",
-            "icon": "farm",
             "info": "A farm for dyes, flowers, moss, drip stone",
             "dial": "getdye"
         },
@@ -876,7 +789,6 @@
             "x": "-14193",
             "y": "64",
             "z": "-3691",
-            "icon": "farm",
             "info": "",
             "dial": "cspruce"
         },
@@ -886,7 +798,6 @@
             "x": "-12793",
             "y": "64",
             "z": "-10095",
-            "icon": "farm",
             "info": "",
             "dial": "eztrial"
         },
@@ -896,7 +807,6 @@
             "x": "-19750",
             "y": "64",
             "z": "-10470",
-            "icon": "farm",
             "info": "",
             "dial": "ezraid"
         },
@@ -906,7 +816,6 @@
             "x": "9507",
             "y": "64",
             "z": "17950",
-            "icon": "farm",
             "info": "",
             "dial": "getvillager"
         },
@@ -916,7 +825,6 @@
             "x": "11221",
             "y": "64",
             "z": "-1059",
-            "icon": "farm",
             "info": "",
             "dial": "cactus"
         },
@@ -926,7 +834,6 @@
             "x": "-8899",
             "y": "64",
             "z": "18183",
-            "icon": "farm",
             "info": "",
             "dial": "monument2-f"
         }
