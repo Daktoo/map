@@ -1,0 +1,725 @@
+{
+    "group": "Dial (Station)",
+    "markers": {
+        "162": {
+            "label": "Amutsuri Beloved Island Station",
+            "desc": "A train station",
+            "x": "-8293",
+            "y": "64",
+            "z": "-14652",
+            "icon": "mcminecart",
+            "info": "Amutsuri Beloved Island Station",
+            "dial": "N/A"
+        },
+        "163": {
+            "label": "Aragin Station",
+            "desc": "A train Station",
+            "x": "-7945",
+            "y": "64",
+            "z": "-14652",
+            "icon": "mcminecart",
+            "info": "Aragin Station",
+            "dial": "N/A"
+        },
+        "164": {
+            "label": "Akratis Station",
+            "desc": "A train station.",
+            "x": "-7169",
+            "y": "64",
+            "z": "-14636",
+            "icon": "mcminecart",
+            "info": "Akratis Station",
+            "dial": "N/A"
+        },
+        "166": {
+            "label": "The Lord of the Furnace Station",
+            "desc": "N/A",
+            "x": "-6682",
+            "y": "64",
+            "z": "-14755",
+            "icon": "mcminecart",
+            "info": "The Lord of the Furnace Station",
+            "dial": "N/A"
+        },
+        "168": {
+            "label": "13th Spawn Station",
+            "desc": "Terminus of Warden Line and 13connector Admin Rail as of 18/09/2024.",
+            "x": "-4849",
+            "y": "64",
+            "z": "-15585",
+            "icon": "mcminecart",
+            "info": "13th Spawn Station",
+            "dial": "N/A"
+        },
+        "172": {
+            "label": "Market Station",
+            "desc": "N/A",
+            "x": "-16075",
+            "y": "64",
+            "z": "-15584",
+            "icon": "mcminecart",
+            "info": "Market Station",
+            "dial": "N/A"
+        },
+        "173": {
+            "label": "Long Island Southern Line Interchange Station",
+            "desc": "N/A",
+            "x": "-16494",
+            "y": "64",
+            "z": "-15878",
+            "icon": "mcminecart",
+            "info": "Long Island Southern Line Interchange Station",
+            "dial": "N/A"
+        },
+        "175": {
+            "label": "Long Island Station",
+            "desc": "N/A",
+            "x": "-16768",
+            "y": "64",
+            "z": "-15871",
+            "icon": "mcminecart",
+            "info": "Long Island Station",
+            "dial": "N/A"
+        },
+        "176": {
+            "label": "Bonnembre Station",
+            "desc": "And you all said my railway standarts were stupid. Look at this shit. Thats why standards exist.-tabdroid Amazing station, would visit again. 10/10 - Dakto",
+            "x": "-17193",
+            "y": "64",
+            "z": "-16706",
+            "icon": "mcminecart",
+            "info": "Bonnembre Station",
+            "dial": "N/A"
+        },
+        "178": {
+            "label": "GetWool Station",
+            "desc": "N/A",
+            "x": "-16768",
+            "y": "64",
+            "z": "-15280",
+            "icon": "mcminecart",
+            "info": "GetWool Station",
+            "dial": "N/A"
+        },
+        "328": {
+            "label": "Diamond Town Station",
+            "desc": "",
+            "x": "-18908",
+            "y": "64",
+            "z": "-16937",
+            "icon": "mcminecart",
+            "info": "Diamond Town Station",
+            "dial": "N/A"
+        },
+        "329": {
+            "label": "Dak Intersection",
+            "desc": "",
+            "x": "-18900",
+            "y": "64",
+            "z": "-16823",
+            "icon": "mcminecart",
+            "info": "Dak Intersection",
+            "dial": "Dakto_2 hotel"
+        },
+        "330": {
+            "label": "South West Station",
+            "desc": "",
+            "x": "-18872",
+            "y": "64",
+            "z": "-16744",
+            "icon": "mcminecart",
+            "info": "South West Station",
+            "dial": "SOUTHWEST"
+        },
+        "331": {
+            "label": "Gray-Star Station",
+            "desc": "",
+            "x": "-18800",
+            "y": "64",
+            "z": "-16664",
+            "icon": "mcminecart",
+            "info": "Gray-Star Station",
+            "dial": "3"
+        },
+        "332": {
+            "label": "l7village Station",
+            "desc": "",
+            "x": "-18767",
+            "y": "64",
+            "z": "-16627",
+            "icon": "mcminecart",
+            "info": "l7village Station",
+            "dial": "N/A"
+        },
+        "334": {
+            "label": "South East Station",
+            "desc": "",
+            "x": "-18778",
+            "y": "64",
+            "z": "-16732",
+            "icon": "mcminecart",
+            "info": "South East Station",
+            "dial": "SOUTHEAST"
+        },
+        "339": {
+            "label": "Tround Station",
+            "desc": "Interchange with Nokia Tround",
+            "x": "-18638",
+            "y": "64",
+            "z": "-12084",
+            "icon": "mcminecart",
+            "info": "Tround Station",
+            "dial": "N/A"
+        },
+        "340": {
+            "label": "Skye Station",
+            "desc": "skye_53 Base",
+            "x": "-18225",
+            "y": "64",
+            "z": "-12198",
+            "icon": "mcminecart",
+            "info": "Skye Station",
+            "dial": "sky"
+        },
+        "341": {
+            "label": "Dylainia Station",
+            "desc": "DylainiaMan Base",
+            "x": "-17394",
+            "y": "64",
+            "z": "-13745",
+            "icon": "mcminecart",
+            "info": "Dylainia Station",
+            "dial": "N/A"
+        },
+        "342": {
+            "label": "Getbamboo3 Station",
+            "desc": "station of getbamboo3",
+            "x": "-17068",
+            "y": "64",
+            "z": "-14361",
+            "icon": "mcminecart",
+            "info": "Getbamboo3 Station",
+            "dial": "getbamboo3"
+        },
+        "343": {
+            "label": "Herotown Station",
+            "desc": "N/A",
+            "x": "-16227",
+            "y": "64",
+            "z": "-16253",
+            "icon": "mcminecart",
+            "info": "Herotown Station",
+            "dial": "HT"
+        },
+        "344": {
+            "label": "Ksi Station",
+            "desc": "Ksi Tround and Warden Line Interchange",
+            "x": "-16429",
+            "y": "64",
+            "z": "-17253",
+            "icon": "mcminecart",
+            "info": "Ksi Station",
+            "dial": "N/A"
+        },
+        "346": {
+            "label": "Herotown Jail Station",
+            "desc": "Herojail",
+            "x": "-14791",
+            "y": "64",
+            "z": "-17576",
+            "icon": "mcminecart",
+            "info": "Herotown Jail Station",
+            "dial": "jail"
+        },
+        "347": {
+            "label": "2Finity Station",
+            "desc": "N/A",
+            "x": "-14161",
+            "y": "64",
+            "z": "-17318",
+            "icon": "mcminecart",
+            "info": "2Finity Station",
+            "dial": "N/A"
+        },
+        "348": {
+            "label": "Land Of Eaga Station",
+            "desc": "N/A",
+            "x": "-14160",
+            "y": "64",
+            "z": "-17262",
+            "icon": "mcminecart",
+            "info": "Land Of Eaga Station",
+            "dial": "LandOfEaga"
+        },
+        "349": {
+            "label": "Get Warden Station",
+            "desc": "N/A",
+            "x": "-12448",
+            "y": "64",
+            "z": "-16527",
+            "icon": "mcminecart",
+            "info": "Get Warden Station",
+            "dial": "getwarden"
+        },
+        "350": {
+            "label": "Underbedrock Line Interchange Station",
+            "desc": "Underbedrock Line and Warden Line Interchange",
+            "x": "-10788",
+            "y": "64",
+            "z": "-15837",
+            "icon": "mcminecart",
+            "info": "Underbedrock Line Interchange Station",
+            "dial": "ubb"
+        },
+        "351": {
+            "label": "Agasir River Station",
+            "desc": "N/A",
+            "x": "-10781",
+            "y": "64",
+            "z": "-15084",
+            "icon": "mcminecart",
+            "info": "Agasir River Station",
+            "dial": "N/A"
+        },
+        "352": {
+            "label": "Sakratis Station",
+            "desc": "N/A",
+            "x": "-8923",
+            "y": "64",
+            "z": "-14652",
+            "icon": "mcminecart",
+            "info": "Sakratis Station",
+            "dial": "N/A"
+        },
+        "353": {
+            "label": "Tround2 Station",
+            "desc": "Chaotica Tround and Warden Line Interchange",
+            "x": "-10781",
+            "y": "64",
+            "z": "-14920",
+            "icon": "mcminecart",
+            "info": "Tround2 Station",
+            "dial": "N/A"
+        },
+        "354": {
+            "label": "Chaotica Station",
+            "desc": "Chaotica Tround Terminus",
+            "x": "-11029",
+            "y": "64",
+            "z": "-14913",
+            "icon": "mcminecart",
+            "info": "Chaotica Station",
+            "dial": "chaotica"
+        },
+        "356": {
+            "label": "Retroville Station",
+            "desc": "Terminus of Octalong Line as of 26/05/2024",
+            "x": "-19810",
+            "y": "64",
+            "z": "-19362",
+            "icon": "mcminecart",
+            "info": "Retroville Station",
+            "dial": "retroville"
+        },
+        "357": {
+            "label": "NFGshop Station",
+            "desc": "Old NFG Train Station",
+            "x": "-18995",
+            "y": "64",
+            "z": "-19026",
+            "icon": "mcminecart",
+            "info": "NFGshop Station",
+            "dial": "19k19k"
+        },
+        "358": {
+            "label": "14spawn Station",
+            "desc": "",
+            "x": "-18951",
+            "y": "64",
+            "z": "-16959",
+            "icon": "mcminecart",
+            "info": "14spawn Station",
+            "dial": "N/A"
+        },
+        "359": {
+            "label": "Dropper Station",
+            "desc": "Octalong Line and Fall Line Interchange, Fall Line terminus",
+            "x": "-18457",
+            "y": "64",
+            "z": "-16860",
+            "icon": "mcminecart",
+            "info": "Dropper Station",
+            "dial": "N/A"
+        },
+        "360": {
+            "label": "Subpartown Station",
+            "desc": "N/A",
+            "x": "-17801",
+            "y": "64",
+            "z": "-16694",
+            "icon": "mcminecart",
+            "info": "Subpartown Station",
+            "dial": "N/A"
+        },
+        "361": {
+            "label": "Tround1 Station",
+            "desc": "Octalong Line Tround to /dial Christmas Interchange",
+            "x": "-17157",
+            "y": "64",
+            "z": "-16716",
+            "icon": "mcminecart",
+            "info": "Tround1 Station",
+            "dial": "N/A"
+        },
+        "362": {
+            "label": "Lionquartz Station",
+            "desc": "What is the purpose of this station lol - Dakto_",
+            "x": "-16822",
+            "y": "64",
+            "z": "-17513",
+            "icon": "mcminecart",
+            "info": "Lionquartz Station",
+            "dial": "N/A"
+        },
+        "363": {
+            "label": "Sears Station",
+            "desc": "A nice train station for a nice shop",
+            "x": "-16831",
+            "y": "64",
+            "z": "-18012",
+            "icon": "mcminecart",
+            "info": "Sears Station",
+            "dial": "N/A"
+        },
+        "364": {
+            "label": "Christmas Station",
+            "desc": "Merry Christmas! Octalong Tround Terminus",
+            "x": "-14776",
+            "y": "64",
+            "z": "-18774",
+            "icon": "mcminecart",
+            "info": "Christmas Station",
+            "dial": "XmaxVillage"
+        },
+        "365": {
+            "label": "Octapoly Station",
+            "desc": "The next station will be 15spawn.\r\nOctalong Line Terminus as of 26/05/2024",
+            "x": "-16686",
+            "y": "64",
+            "z": "-14089",
+            "icon": "mcminecart",
+            "info": "Octapoly Station",
+            "dial": "Octapoly"
+        },
+        "371": {
+            "label": "Spawn Cavern Station",
+            "desc": "",
+            "x": "-19084",
+            "y": "64",
+            "z": "-16960",
+            "icon": "mcminecart",
+            "info": "Spawn Cavern Station",
+            "dial": "N/A"
+        },
+        "391": {
+            "label": "Ramil Station",
+            "desc": "Owned by qarnayn on Warden Line",
+            "x": "-13355",
+            "y": "64",
+            "z": "-17064",
+            "icon": "mcminecart",
+            "info": "Ramil Station",
+            "dial": "krumovo"
+        },
+        "392": {
+            "label": "Loustro Base Station",
+            "desc": "A train station with a lot of mapart",
+            "x": "-19192",
+            "y": "64",
+            "z": "-15728",
+            "icon": "mcminecart",
+            "info": "Loustro Base Station",
+            "dial": "N/A"
+        },
+        "393": {
+            "label": "BADville Station",
+            "desc": "The station with the massive dirt castle",
+            "x": "-19250",
+            "y": "64",
+            "z": "-15390",
+            "icon": "mcminecart",
+            "info": "BADville Station",
+            "dial": "NurseBAD"
+        },
+        "394": {
+            "label": "BADville Sauna Station",
+            "desc": "SwampyWheat is the closest dial to the sauna, not the official one",
+            "x": "-19536",
+            "y": "64",
+            "z": "-15330",
+            "icon": "mcminecart",
+            "info": "BADville Sauna Station",
+            "dial": "SwampyWheat"
+        },
+        "395": {
+            "label": "VISMITHIV Library Station",
+            "desc": "N/A",
+            "x": "-19552",
+            "y": "64",
+            "z": "-13008",
+            "icon": "mcminecart",
+            "info": "VISMITHIV Library Station",
+            "dial": "N/A"
+        },
+        "396": {
+            "label": "VISMITHIIV Base Station",
+            "desc": "N/A",
+            "x": "-19418",
+            "y": "64",
+            "z": "-12508",
+            "icon": "mcminecart",
+            "info": "VISMITHIIV Base Station",
+            "dial": "VISMITHIV"
+        },
+        "397": {
+            "label": "Nokia Station Fall Line",
+            "desc": "N/A",
+            "x": "-19419",
+            "y": "64",
+            "z": "-12153",
+            "icon": "mcminecart",
+            "info": "Nokia Station Fall Line",
+            "dial": "N/A"
+        },
+        "457": {
+            "label": "Cthulhuland Farming District Station",
+            "desc": "Train Station on Cthulhu Express",
+            "x": "-13489",
+            "y": "64",
+            "z": "5269",
+            "icon": "mcminecart",
+            "info": "Cthulhuland Farming District Station",
+            "dial": "N/A"
+        },
+        "458": {
+            "label": "Cthulhuland Station",
+            "desc": "Serves Cthulhu Express and Cthulhu Line",
+            "x": "-12777",
+            "y": "64",
+            "z": "5531",
+            "icon": "mcminecart",
+            "info": "Cthulhuland Station",
+            "dial": "ctl"
+        },
+        "459": {
+            "label": "Cthulhu Express Interchange Station",
+            "desc": "Interchange with Warden Line and Cthulhu Express",
+            "x": "-18438",
+            "y": "64",
+            "z": "-12202",
+            "icon": "mcminecart",
+            "info": "Cthulhu Express Interchange Station",
+            "dial": "N/A"
+        },
+        "460": {
+            "label": "LunaHQ Station",
+            "desc": "Station on Cthulhu Express",
+            "x": "-18361",
+            "y": "64",
+            "z": "-14261",
+            "icon": "mcminecart",
+            "info": "LunaHQ Station",
+            "dial": "N/A"
+        },
+        "461": {
+            "label": "Diamond Town South Station",
+            "desc": "Station on Cthulhu Express",
+            "x": "-18728",
+            "y": "64",
+            "z": "-16459",
+            "icon": "mcminecart",
+            "info": "Diamond Town South Station",
+            "dial": "N/A"
+        },
+        "464": {
+            "label": "Getwood2 Station",
+            "desc": "Serves Cthulhu Tround2 and Fall Line. Cthulhu Tround2 Terminus",
+            "x": "-19979",
+            "y": "64",
+            "z": "-11808",
+            "icon": "mcminecart",
+            "info": "Getwood2 Station",
+            "dial": "N/A"
+        },
+        "465": {
+            "label": "Windlush Station",
+            "desc": "Station on Warden Line",
+            "x": "-5331",
+            "y": "64",
+            "z": "-15519",
+            "icon": "mcminecart",
+            "info": "Windlush Station",
+            "dial": "N/A"
+        },
+        "467": {
+            "label": "AR/WL Interchange Station 1",
+            "desc": "Interchange with Warden Line and \r\n13-14westline Admin Rail",
+            "x": "-10780",
+            "y": "64",
+            "z": "-14994",
+            "icon": "mcminecart",
+            "info": "AR/WL Interchange Station 1",
+            "dial": "N/A"
+        },
+        "468": {
+            "label": "AR/WL Interchange Station 2",
+            "desc": "Interchange with Warden Line and \r\n13-14westline Admin Rail",
+            "x": "-16816",
+            "y": "64",
+            "z": "-14994",
+            "icon": "mcminecart",
+            "info": "AR/WL Interchange Station 2",
+            "dial": "N/A"
+        },
+        "469": {
+            "label": "WL/CE/CETRD2 Interchange Station",
+            "desc": "Interchange With Warden Line, Cthulhu Express and Cthulhu Tround2",
+            "x": "-18439",
+            "y": "64",
+            "z": "-12201",
+            "icon": "mcminecart",
+            "info": "WL/CE/CETRD2 Interchange Station",
+            "dial": "N/A"
+        },
+        "472": {
+            "label": "Cthulhu Express Rest Stop",
+            "desc": "Interchange for Cthulhu StarlightV1 Tround and Cthulhu Express",
+            "x": "-18336",
+            "y": "64",
+            "z": "-12424",
+            "icon": "mcminecart",
+            "info": "Cthulhu Express Rest Stop",
+            "dial": "RailToCTH-RS"
+        },
+        "769": {
+            "label": "Rootrail Main Station",
+            "desc": "Created by RooT_A_TooT",
+            "x": "-5765",
+            "y": "64",
+            "z": "-15886",
+            "icon": "mcminecart",
+            "info": "Rootrail Main Station",
+            "dial": "rootrail"
+        },
+        "902": {
+            "label": "Amzos Interchange Station",
+            "desc": "Interchange with Cthulhu Express and Cthulhu Express Amzos Tround (leading to Ironside)",
+            "x": "-9981",
+            "y": "66",
+            "z": "-5678",
+            "icon": "mcminecart",
+            "info": "Amzos Interchange Station",
+            "dial": "N/A"
+        },
+        "906": {
+            "label": "THE LAKE OF DEPAIR ",
+            "desc": "WL THE LAKE OF DESPAIR STATION,it is under herobrine summoner (THE LAKE OF DESPAIR)",
+            "x": "-10795",
+            "y": "70",
+            "z": "-16253",
+            "icon": "mcminecart",
+            "info": "THE LAKE OF DEPAIR ",
+            "dial": "N/A"
+        },
+        "965": {
+            "label": "getsuger2 stastion",
+            "desc": "getsuger2 stastion",
+            "x": "-16855",
+            "y": "72",
+            "z": "-14607",
+            "icon": "mcminecart",
+            "info": "getsuger2 stastion",
+            "dial": "N/A"
+        },
+        "977": {
+            "label": "Cherry Line Warden Line Interchange Station",
+            "desc": "",
+            "x": "-17469",
+            "y": "65",
+            "z": "-12996",
+            "icon": "mcminecart",
+            "info": "Cherry Line Warden Line Interchange Station",
+            "dial": "N/A"
+        },
+        "980": {
+            "label": "Cthulhuland North Station",
+            "desc": "Cthulhuland Metro terminus",
+            "x": "-12909",
+            "y": "57",
+            "z": "5124",
+            "icon": "mcminecart",
+            "info": "Cthulhuland North Station",
+            "dial": "N/A"
+        },
+        "981": {
+            "label": "Cthulhuland Central Metro Station",
+            "desc": "",
+            "x": "-12887",
+            "y": "57",
+            "z": "5322",
+            "icon": "mcminecart",
+            "info": "Cthulhuland Central Metro Station",
+            "dial": "N/A"
+        },
+        "982": {
+            "label": "Cthulhuland Downtown Metro Station",
+            "desc": "Cthulhuland Metro Southern Terminus",
+            "x": "-12903",
+            "y": "54",
+            "z": "5657",
+            "icon": "mcminecart",
+            "info": "Cthulhuland Downtown Metro Station",
+            "dial": "N/A"
+        },
+        "983": {
+            "label": "Lower Bay Metro Station",
+            "desc": "Station currently closed.",
+            "x": "-12923",
+            "y": "35",
+            "z": "5674",
+            "icon": "mcminecart",
+            "info": "Lower Bay Metro Station",
+            "dial": "N/A"
+        },
+        "984": {
+            "label": "Char",
+            "desc": "",
+            "x": "-19769",
+            "y": "64",
+            "z": "19810",
+            "icon": "building",
+            "info": "Char",
+            "dial": "Char"
+        },
+        "985": {
+            "label": "border",
+            "desc": "",
+            "x": "11989",
+            "y": "64",
+            "z": "19980",
+            "icon": "building",
+            "info": "border",
+            "dial": "border"
+        },
+        "986": {
+            "label": "southeast",
+            "desc": "",
+            "x": "20000",
+            "y": "64",
+            "z": "20000",
+            "icon": "building",
+            "info": "southeast",
+            "dial": "southeast"
+        }
+    }
+}

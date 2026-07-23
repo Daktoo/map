@@ -1,0 +1,32 @@
+{
+    "markers": {
+            "areas": {
+                "_worldborder_world": {
+                    "fillcolor": "#000000",
+                    "ytop": 64,
+                    "color": "#FF0000",
+                    "markup": false,
+                    "y": "100",
+                    "x": [
+                        -19999.5,
+                        20000.5,
+                        20000.5,
+                        -19999.5
+                    ],
+                    "weight": 3,
+                    "z": [
+                        -19999.5,
+                        -19999.5,
+                        20000.5,
+                        20000.5
+                    ],
+                    "ybottom": 64,
+                    "label": "Border",
+                    "opacity": 0.8,
+                    "fillopacity": 0
+                }
+            },
+            "label": "World Border",
+            "layerprio": 0
+        }
+    }

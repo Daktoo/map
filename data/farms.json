@@ -1,0 +1,934 @@
+{
+    "group": "Dial (Farm)",
+    "markers": {
+        "64": {
+            "label": "Get Powder",
+            "desc": "Produces a few Glow squids now and then. Produces around 6000 gunpowder per hour (with looting III). Created by oante. Assisted by QuteVoiceHacker (OnlyQwQ)",
+            "x": "11920",
+            "y": "-14",
+            "z": "-14670",
+            "icon": "factory",
+            "info": "Get Powder",
+            "dial": "getpowder"
+        },
+        "135": {
+            "label": "Get Mud",
+            "desc": "Created by Tboogle",
+            "x": "-13804",
+            "y": "71",
+            "z": "-14477",
+            "icon": "factory",
+            "info": "Get Mud",
+            "dial": "getmud"
+        },
+        "179": {
+            "label": "Get Wool",
+            "desc": "Created by Hunter512_",
+            "x": "-16720",
+            "y": "75",
+            "z": "-15276",
+            "icon": "factory",
+            "info": "Get Wool",
+            "dial": "getwool"
+        },
+        "191": {
+            "label": "Calvin Guardian Farm",
+            "desc": "Created by Calvi_n",
+            "x": "-6982",
+            "y": "22",
+            "z": "16694",
+            "icon": "factory",
+            "info": "Calvin Guardian Farm",
+            "dial": "catlantis"
+        },
+        "196": {
+            "label": "Get Bamboo",
+            "desc": "Created by AlyQT (0x4l)",
+            "x": "-18694",
+            "y": "155",
+            "z": "-14996",
+            "icon": "factory",
+            "info": "Get Bamboo",
+            "dial": "getbamboo"
+        },
+        "197": {
+            "label": "Get Bamboo 2",
+            "desc": "",
+            "x": "-19241",
+            "y": "-58",
+            "z": "-10734",
+            "icon": "factory",
+            "info": "Get Bamboo 2",
+            "dial": "getbamboo2 getplank"
+        },
+        "202": {
+            "label": "Raid Farm",
+            "desc": "N/A",
+            "x": "10700",
+            "y": "64",
+            "z": "-16236",
+            "icon": "factory",
+            "info": "Raid Farm",
+            "dial": "raidfarm"
+        },
+        "217": {
+            "label": "Get Mob",
+            "desc": "N/A",
+            "x": "-4515",
+            "y": "64",
+            "z": "-16310",
+            "icon": "factory",
+            "info": "Get Mob",
+            "dial": "getmob"
+        },
+        "218": {
+            "label": "Get Mossed",
+            "desc": "N/A",
+            "x": "9466",
+            "y": "64",
+            "z": "17929",
+            "icon": "factory",
+            "info": "Get Mossed",
+            "dial": "getmossed"
+        },
+        "223": {
+            "label": "Get Slime",
+            "desc": "N/A",
+            "x": "-4318",
+            "y": "64",
+            "z": "-18113",
+            "icon": "factory",
+            "info": "Get Slime",
+            "dial": "getslime"
+        },
+        "225": {
+            "label": "Spider Yeet",
+            "desc": "N/A",
+            "x": "10307",
+            "y": "64",
+            "z": "-12983",
+            "icon": "factory",
+            "info": "Spider Yeet",
+            "dial": "spideryeet"
+        },
+        "231": {
+            "label": "Big Farm",
+            "desc": "N/A",
+            "x": "1021",
+            "y": "64",
+            "z": "-4633",
+            "icon": "factory",
+            "info": "Big Farm",
+            "dial": "bigfarm"
+        },
+        "245": {
+            "label": "Public Farm",
+            "desc": "Owned by ItsBalvan",
+            "x": "-17299",
+            "y": "64",
+            "z": "-16106",
+            "icon": "factory",
+            "info": "Public Farm",
+            "dial": "farm"
+        },
+        "246": {
+            "label": "Get Cow",
+            "desc": "N/A",
+            "x": "7131",
+            "y": "64",
+            "z": "9462",
+            "icon": "factory",
+            "info": "Get Cow",
+            "dial": "getcow"
+        },
+        "247": {
+            "label": "Get Wood",
+            "desc": "N/A",
+            "x": "-7569",
+            "y": "64",
+            "z": "-1017",
+            "icon": "factory",
+            "info": "Get Wood",
+            "dial": "getwood"
+        },
+        "248": {
+            "label": "Get String",
+            "desc": "N/A",
+            "x": "-4608",
+            "y": "64",
+            "z": "-19266",
+            "icon": "factory",
+            "info": "Get String",
+            "dial": "getstring"
+        },
+        "249": {
+            "label": "Get Sugar",
+            "desc": "N/A",
+            "x": "558",
+            "y": "64",
+            "z": "7414",
+            "icon": "factory",
+            "info": "Get Sugar",
+            "dial": "getsugar"
+        },
+        "250": {
+            "label": "Get Paper",
+            "desc": "N/A",
+            "x": "-10840",
+            "y": "64",
+            "z": "-16108",
+            "icon": "factory",
+            "info": "Get Paper",
+            "dial": "getsuger getpaper"
+        },
+        "251": {
+            "label": "Get Iron",
+            "desc": "N/A",
+            "x": "-17097",
+            "y": "64",
+            "z": "-2180",
+            "icon": "factory",
+            "info": "Get Iron",
+            "dial": "getiron"
+        },
+        "253": {
+            "label": "Get Moss",
+            "desc": "N/A",
+            "x": "-15598",
+            "y": "64",
+            "z": "-16832",
+            "icon": "factory",
+            "info": "Get Moss",
+            "dial": "getmoss"
+        },
+        "254": {
+            "label": "Get Cactus",
+            "desc": "N/A",
+            "x": "-15577",
+            "y": "64",
+            "z": "-16830",
+            "icon": "factory",
+            "info": "Get Cactus",
+            "dial": "getcactus"
+        },
+        "255": {
+            "label": "Get Egg",
+            "desc": "N/A",
+            "x": "-15547",
+            "y": "64",
+            "z": "-16830",
+            "icon": "factory",
+            "info": "Get Egg",
+            "dial": "getegg"
+        },
+        "256": {
+            "label": "Get Wheatz",
+            "desc": "N/A",
+            "x": "-15542",
+            "y": "64",
+            "z": "-16835",
+            "icon": "factory",
+            "info": "Get Wheatz",
+            "dial": "getwheatz"
+        },
+        "257": {
+            "label": "Get Honey",
+            "desc": "N/A",
+            "x": "-15953",
+            "y": "64",
+            "z": "-14415",
+            "icon": "factory",
+            "info": "Get Honey",
+            "dial": "gethoney"
+        },
+        "258": {
+            "label": "Get Sculk",
+            "desc": "N/A",
+            "x": "-19147",
+            "y": "64",
+            "z": "-10878",
+            "icon": "factory",
+            "info": "Get Sculk",
+            "dial": "getsculk"
+        },
+        "259": {
+            "label": "Get Sculk 2",
+            "desc": "South Terminus of Warden Line",
+            "x": "-19287",
+            "y": "64",
+            "z": "-10708",
+            "icon": "factory",
+            "info": "Get Sculk 2",
+            "dial": "getsculk2"
+        },
+        "260": {
+            "label": "Quarry",
+            "desc": "N/A",
+            "x": "4030",
+            "y": "64",
+            "z": "4957",
+            "icon": "factory",
+            "info": "Quarry",
+            "dial": "Quarry quarry getsand getclay"
+        },
+        "261": {
+            "label": "Get Drowned",
+            "desc": "N/A",
+            "x": "-14351",
+            "y": "64",
+            "z": "-14690",
+            "icon": "factory",
+            "info": "Get Drowned",
+            "dial": "getdrowned"
+        },
+        "262": {
+            "label": "Get Ink",
+            "desc": "N/A",
+            "x": "9835",
+            "y": "64",
+            "z": "6953",
+            "icon": "factory",
+            "info": "Get Ink",
+            "dial": "getink"
+        },
+        "263": {
+            "label": "Get Ink 2",
+            "desc": "N/A",
+            "x": "-18272",
+            "y": "64",
+            "z": "-19699",
+            "icon": "factory",
+            "info": "Get Ink 2",
+            "dial": "getink2"
+        },
+        "264": {
+            "label": "Get Kelp",
+            "desc": "N/A",
+            "x": "-19656",
+            "y": "64",
+            "z": "-15668",
+            "icon": "factory",
+            "info": "Get Kelp",
+            "dial": "getkelp"
+        },
+        "266": {
+            "label": "Get Bamboo 3",
+            "desc": "It is a improvement of getbamboo4",
+            "x": "-17066",
+            "y": "64",
+            "z": "-14361",
+            "icon": "factory",
+            "info": "Get Bamboo 3",
+            "dial": "getbamboo3 getplank2"
+        },
+        "267": {
+            "label": "Get Bamboo 4",
+            "desc": "After the failed getbamboo5, exkc made this",
+            "x": "-10923",
+            "y": "64",
+            "z": "-16101",
+            "icon": "factory",
+            "info": "Get Bamboo 4",
+            "dial": "getbamboo4 getplank3"
+        },
+        "268": {
+            "label": "Get Bamboo 5",
+            "desc": "",
+            "x": "-11046",
+            "y": "64",
+            "z": "-15759",
+            "icon": "factory",
+            "info": "Get Bamboo 5",
+            "dial": "getbamboo5 getplank4"
+        },
+        "269": {
+            "label": "Get Chicken",
+            "desc": "N/A",
+            "x": "8976",
+            "y": "64",
+            "z": "3968",
+            "icon": "factory",
+            "info": "Get Chicken",
+            "dial": "getchicken"
+        },
+        "288": {
+            "label": "Get Iron 3",
+            "desc": "N/A",
+            "x": "-4281",
+            "y": "64",
+            "z": "-18879",
+            "icon": "factory",
+            "info": "Get Iron 3",
+            "dial": "getiron3"
+        },
+        "296": {
+            "label": "Crepy",
+            "desc": "N/A",
+            "x": "-15895",
+            "y": "64",
+            "z": "-19893",
+            "icon": "factory",
+            "info": "Crepy",
+            "dial": "crepy"
+        },
+        "297": {
+            "label": "Get Warden",
+            "desc": "N/A",
+            "x": "-12438",
+            "y": "64",
+            "z": "-16541",
+            "icon": "factory",
+            "info": "Get Warden",
+            "dial": "getwarden"
+        },
+        "300": {
+            "label": "Get Pillager",
+            "desc": "N/A",
+            "x": "-17741",
+            "y": "64",
+            "z": "-11510",
+            "icon": "factory",
+            "info": "Get Pillager",
+            "dial": "getpill"
+        },
+        "302": {
+            "label": "Get wood 2",
+            "desc": "Made by Dakto",
+            "x": "-19989",
+            "y": "64",
+            "z": "-11809",
+            "icon": "factory",
+            "info": "Get wood 2",
+            "dial": "getwood2"
+        },
+        "338": {
+            "label": "Get Deepslate",
+            "desc": "Diamond Town Public Mine",
+            "x": "-18916",
+            "y": "64",
+            "z": "-16855",
+            "icon": "factory",
+            "info": "Get Deepslate",
+            "dial": "getdeepslate gds"
+        },
+        "377": {
+            "label": "Get Witch",
+            "desc": "Created by Zejoant",
+            "x": "-15066",
+            "y": "140",
+            "z": "-731",
+            "icon": "factory",
+            "info": "Get Witch",
+            "dial": "getwitch"
+        },
+        "378": {
+            "label": "Get Witch2",
+            "desc": "Created by QuteVoiceHacker and MarcLeduc/ Terminus of Get Witch Tround as of 30/05/2024",
+            "x": "-7386",
+            "y": "64",
+            "z": "-15036",
+            "icon": "factory",
+            "info": "Get Witch2",
+            "dial": "getwitch2"
+        },
+        "387": {
+            "label": "Get Cherry",
+            "desc": "massive cherry wood farm",
+            "x": "-19527",
+            "y": "64",
+            "z": "-13952",
+            "icon": "factory",
+            "info": "Get Cherry",
+            "dial": "getcherry cw"
+        },
+        "409": {
+            "label": "Cthulhuland CTR",
+            "desc": "Cthulhuland Farming District",
+            "x": "-13481",
+            "y": "64",
+            "z": "5253",
+            "icon": "factory",
+            "info": "Cthulhuland CTR",
+            "dial": "CTR"
+        },
+        "426": {
+            "label": "Public Mine",
+            "desc": "I guess its a farm\r\nBuild created by Hunter512_\r\nDial Provided by rilelyscastle. Terminus of Cthulhu Mine Tround",
+            "x": "-18101",
+            "y": "64",
+            "z": "-11536",
+            "icon": "factory",
+            "info": "Public Mine",
+            "dial": "mine"
+        },
+        "443": {
+            "label": "Zenjo Gold Farm",
+            "desc": "Wow a gold farm in the overworld, this pin was not a mistake",
+            "x": "-17228",
+            "y": "64",
+            "z": "-19840",
+            "icon": "factory",
+            "info": "Zenjo Gold Farm",
+            "dial": "zenjo"
+        },
+        "476": {
+            "label": "Getoak",
+            "desc": "Farm created by pigwin_",
+            "x": "-19525",
+            "y": "64",
+            "z": "-13563",
+            "icon": "factory",
+            "info": "Getoak",
+            "dial": "getoak ow"
+        },
+        "477": {
+            "label": "Getmangrove",
+            "desc": "Farm created by pigwin_",
+            "x": "-19525",
+            "y": "64",
+            "z": "-13691",
+            "icon": "factory",
+            "info": "Getmangrove",
+            "dial": "mw"
+        },
+        "479": {
+            "label": "Get birch",
+            "desc": "Farm Created by pigwin_",
+            "x": "-19525",
+            "y": "64",
+            "z": "-14331",
+            "icon": "factory",
+            "info": "Get birch",
+            "dial": "getbirch bw"
+        },
+        "494": {
+            "label": "Mesa",
+            "desc": "Farm for Red Sand and Terracotta, also a bit of desert here for sand.",
+            "x": "-7488",
+            "y": "64",
+            "z": "-10019",
+            "icon": "factory",
+            "info": "Mesa",
+            "dial": "mesa"
+        },
+        "495": {
+            "label": "Cave Spider Farm",
+            "desc": "Cave Spider farm owned by Smokeymalamute. Also a mini shop here",
+            "x": "-11757",
+            "y": "64",
+            "z": "-15698",
+            "icon": "factory",
+            "info": "Cave Spider Farm",
+            "dial": "cavespider"
+        },
+        "497": {
+            "label": "Get pussy",
+            "desc": "Farm owned by MarcLeduc",
+            "x": "6701",
+            "y": "64",
+            "z": "9710",
+            "icon": "factory",
+            "info": "Get pussy",
+            "dial": "getpussy, getcat"
+        },
+        "503": {
+            "label": "Dungeons of Destiny",
+            "desc": "Public Trial Chamber. The only one to reset at certain times. Dial provided by rbos",
+            "x": "-13929",
+            "y": "64",
+            "z": "-12814",
+            "icon": "factory",
+            "info": "Dungeons of Destiny",
+            "dial": "destiny2"
+        },
+        "504": {
+            "label": "Get Red Sand",
+            "desc": "Mesa Biome, get different terracotta and red sand here. Dial provided by Dakt0",
+            "x": "-11583",
+            "y": "64",
+            "z": "-11346",
+            "icon": "factory",
+            "info": "Get Red Sand",
+            "dial": "getredsand"
+        },
+        "512": {
+            "label": "Quad Farm",
+            "desc": "Farm created by Hunter512_",
+            "x": "-16285",
+            "y": "64",
+            "z": "-14899",
+            "icon": "factory",
+            "info": "Quad Farm",
+            "dial": "quadfarm"
+        },
+        "525": {
+            "label": "Get Dog Armor",
+            "desc": "Farm created by QuteV0iceHacker",
+            "x": "-19294",
+            "y": "64",
+            "z": "-10718",
+            "icon": "factory",
+            "info": "Get Dog Armor",
+            "dial": "getdogarmour getarmadillo getarmour getarmor"
+        },
+        "527": {
+            "label": "Moonlight XP Farm",
+            "desc": "Pillager XP Farm. Farm created by lspiter",
+            "x": "-13212",
+            "y": "64",
+            "z": "-11753",
+            "icon": "factory",
+            "info": "Moonlight XP Farm",
+            "dial": "moonlight"
+        },
+        "530": {
+            "label": "Get Scutes",
+            "desc": "Armadillo Scute &amp; Energy farm. Designed by MarcLeduc",
+            "x": "7460",
+            "y": "64",
+            "z": "9855",
+            "icon": "factory",
+            "info": "Get Scutes",
+            "dial": "getscutes"
+        },
+        "532": {
+            "label": "Get Iron 4",
+            "desc": "Iron farm owned by pumppie216",
+            "x": "-13532",
+            "y": "64",
+            "z": "-17740",
+            "icon": "factory",
+            "info": "Get Iron 4",
+            "dial": "getiron4"
+        },
+        "555": {
+            "label": "Night Court Public Trials",
+            "desc": "Trial Chamber for only looting and doesnt reset. Dial provided by Squydy",
+            "x": "-14607",
+            "y": "64",
+            "z": "-10869",
+            "icon": "factory",
+            "info": "Night Court Public Trials",
+            "dial": "trials"
+        },
+        "568": {
+            "label": "Dog Erald",
+            "desc": "Created by butches and smoosh200",
+            "x": "-8472",
+            "y": "64",
+            "z": "-10352",
+            "icon": "factory",
+            "info": "Dog Erald",
+            "dial": "df"
+        },
+        "570": {
+            "label": "Lord Farm",
+            "desc": "Owned by DivergentCat. Dial readded by rilelyscastle",
+            "x": "-7902",
+            "y": "64",
+            "z": "-9891",
+            "icon": "factory",
+            "info": "Lord Farm",
+            "dial": "Lord-Farm"
+        },
+        "578": {
+            "label": "Castle Farm",
+            "desc": "Created by rilelyscastle. Original dial rivefarms",
+            "x": "-7457",
+            "y": "64",
+            "z": "-8826",
+            "icon": "factory",
+            "info": "Castle Farm",
+            "dial": "castlefarm"
+        },
+        "602": {
+            "label": "Get Petal",
+            "desc": "Pink Dye / Pink Petal Farm created by lspiter",
+            "x": "-10701",
+            "y": "64",
+            "z": "-13848",
+            "icon": "factory",
+            "info": "Get Petal",
+            "dial": "getpetal"
+        },
+        "603": {
+            "label": "Get Splash",
+            "desc": "Splash your potions or bottles in a fun and quicker way! Created by lspiter",
+            "x": "-10663",
+            "y": "64",
+            "z": "-13839",
+            "icon": "factory",
+            "info": "Get Splash",
+            "dial": "getsplash"
+        },
+        "609": {
+            "label": "Valley of Wheat",
+            "desc": "Owned by Skain",
+            "x": "-7464",
+            "y": "64",
+            "z": "-2335",
+            "icon": "factory",
+            "info": "Valley of Wheat",
+            "dial": "valleyofwheat"
+        },
+        "610": {
+            "label": "Dakto Mob Farm",
+            "desc": "Farm created by Daktoo",
+            "x": "-16949",
+            "y": "64",
+            "z": "-14972",
+            "icon": "factory",
+            "info": "Dakto Mob Farm",
+            "dial": "Daktomob"
+        },
+        "632": {
+            "label": "Get More Wood",
+            "desc": "Created by HouseKat and Smokeymalamute with special assistance from Asher2Asher",
+            "x": "-19893",
+            "y": "64",
+            "z": "-15376",
+            "icon": "factory",
+            "info": "Get More Wood",
+            "dial": "GetMoreWood"
+        },
+        "649": {
+            "label": "Shulker",
+            "desc": "Shulker farm owned by SWIFTTylerBear",
+            "x": "5718",
+            "y": "64",
+            "z": "16485",
+            "icon": "factory",
+            "info": "Shulker",
+            "dial": "shulker"
+        },
+        "734": {
+            "label": "Get Concrete",
+            "desc": "Created by QuadRadical",
+            "x": "-9667",
+            "y": "64",
+            "z": "-9014",
+            "icon": "factory",
+            "info": "Get Concrete",
+            "dial": "getconcrete"
+        },
+        "761": {
+            "label": "Get Jungle",
+            "desc": "Massive jungle wood farm",
+            "x": "-19526",
+            "y": "64",
+            "z": "-14080",
+            "icon": "factory",
+            "info": "Get Jungle",
+            "dial": "getjungle jw"
+        },
+        "762": {
+            "label": "get coco",
+            "desc": "Cocoa farm",
+            "x": "-19546",
+            "y": "64",
+            "z": "-14080",
+            "icon": "factory",
+            "info": "get coco",
+            "dial": "cocoa coco"
+        },
+        "770": {
+            "label": "Get Dark Oak",
+            "desc": "Created by pigwin_",
+            "x": "-19526",
+            "y": "64",
+            "z": "-14208",
+            "icon": "factory",
+            "info": "Get Dark Oak",
+            "dial": "getdarkoak dw"
+        },
+        "832": {
+            "label": "Get Stacking",
+            "desc": "Created by arkoudaCrimson",
+            "x": "-14197",
+            "y": "80",
+            "z": "-17848",
+            "icon": "factory",
+            "info": "Get Stacking",
+            "dial": "getstacking"
+        },
+        "834": {
+            "label": "Get Fungus",
+            "desc": "Manual farm for warped and crimson stems",
+            "x": "-16619",
+            "y": "68",
+            "z": "-12361",
+            "icon": "factory",
+            "info": "Get Fungus",
+            "dial": "getfungus"
+        },
+        "909": {
+            "label": "Get Fishing",
+            "desc": "fishing lake/pool/pond of Quteland",
+            "x": "-10558",
+            "y": "63",
+            "z": "-16046",
+            "icon": "factory",
+            "info": "Get Fishing",
+            "dial": "getfishing"
+        },
+        "943": {
+            "label": "Get Gold 1",
+            "desc": "Created by NerdyyNate",
+            "x": "-12731",
+            "y": "94",
+            "z": "-17313",
+            "icon": "factory",
+            "info": "Get Gold 1",
+            "dial": "getgold1"
+        },
+        "964": {
+            "label": "getsuger2",
+            "desc": "The coolest suger farm\r\n(based on getbamboo2)",
+            "x": "-16856",
+            "y": "66",
+            "z": "-14615",
+            "icon": "factory",
+            "info": "getsuger2",
+            "dial": "getsuger2"
+        },
+        "976": {
+            "label": "GoldWinXP",
+            "desc": "Based on getgold1,name after Gold Windows XP",
+            "x": "-17545",
+            "y": "63",
+            "z": "-12184",
+            "icon": "factory",
+            "info": "GoldWinXP",
+            "dial": "GoldWinXP"
+        },
+        "977": {
+            "label": "getchorus",
+            "desc": "",
+            "x": "-295",
+            "y": "64",
+            "z": "10198",
+            "icon": "farm",
+            "info": ""
+        },
+        "978": {
+            "label": "carrots",
+            "desc": "",
+            "x": "6555",
+            "y": "64",
+            "z": "16312",
+            "icon": "farm",
+            "info": "",
+            "dial": "carrots"
+        },
+        "979": {
+            "label": "ghast",
+            "desc": "ghast farm",
+            "x": "-4214",
+            "y": "64",
+            "z": "784",
+            "icon": "farm",
+            "info": "ghast farm",
+            "dial": "ghast"
+        },
+        "980": {
+            "label": "gunpowder",
+            "desc": "creeper farm",
+            "x": "5723",
+            "y": "64",
+            "z": "16435",
+            "icon": "farm",
+            "info": "creeper farm",
+            "dial": "gunpowder"
+        },
+        "981": {
+            "label": "getemeralds",
+            "desc": "villager trading hall",
+            "x": "11526",
+            "y": "64",
+            "z": "-12110",
+            "icon": "farm",
+            "info": "villager trading hall",
+            "dial": "getemeralds"
+        },
+        "982": {
+            "label": "getpearls",
+            "desc": "",
+            "x": "5632",
+            "y": "64",
+            "z": "6311",
+            "icon": "farm",
+            "info": "",
+            "dial": "getpearls"
+        },
+        "983": {
+            "label": "Get Dye",
+            "desc": "A farm for dyes, flowers, moss, drip stone",
+            "x": "7611",
+            "y": "64",
+            "z": "17525",
+            "icon": "farm",
+            "info": "A farm for dyes, flowers, moss, drip stone",
+            "dial": "getdye"
+        },
+        "984": {
+            "label": "Spruce Moose",
+            "desc": "",
+            "x": "-14193",
+            "y": "64",
+            "z": "-3691",
+            "icon": "farm",
+            "info": "",
+            "dial": "cspruce"
+        },
+        "985": {
+            "label": "Eztrial",
+            "desc": "",
+            "x": "-12793",
+            "y": "64",
+            "z": "-10095",
+            "icon": "farm",
+            "info": "",
+            "dial": "eztrial"
+        },
+        "986": {
+            "label": "Ezraid",
+            "desc": "",
+            "x": "-19750",
+            "y": "64",
+            "z": "-10470",
+            "icon": "farm",
+            "info": "",
+            "dial": "ezraid"
+        },
+        "987": {
+            "label": "getvillager",
+            "desc": "",
+            "x": "9507",
+            "y": "64",
+            "z": "17950",
+            "icon": "farm",
+            "info": "",
+            "dial": "getvillager"
+        },
+        "988": {
+            "label": "cactus",
+            "desc": "",
+            "x": "11221",
+            "y": "64",
+            "z": "-1059",
+            "icon": "farm",
+            "info": "",
+            "dial": "cactus"
+        },
+        "989": {
+            "label": "monument2-f",
+            "desc": "",
+            "x": "-8899",
+            "y": "64",
+            "z": "18183",
+            "icon": "farm",
+            "info": "",
+            "dial": "monument2-f"
+        }
+    }
+}
