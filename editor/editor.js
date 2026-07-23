@@ -9,7 +9,7 @@
         btn.id = 'editor-toggle-btn';
         btn.textContent = 'Admin';
         btn.addEventListener('click', function () {
-            window.location.href = '../admin/';
+            window.location.href = '../admin/index.html';
         });
         document.body.appendChild(btn);
     }
