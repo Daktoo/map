@@ -7,9 +7,7 @@
         'shops.json',
         'stations.json',
         'wxt.json',
-        'others.json',
-        'pvp.json',
-        'dials.json'
+        'pvp.json'
     ];
 
     const SORT_FIELDS = ['id', 'label', 'dial', 'x', 'y', 'z', 'info'];
