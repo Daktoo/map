@@ -36,26 +36,73 @@
                 z: -(lat) * WORLD_SCALE
             };
         }        
+        const MARKER_FILES = [
+            'builds.json',
+            'farms.json',
+            'shops.json',
+            'stations.json',
+            'wxt.json',
+            'others.json',
+            'pvp.json',
+            'dials.json'
+        ];
+
+        const FILE_COLOR = {
+            'wxt.json': 'purple',
+            'stations.json': 'blue',
+            'shops.json': 'green',
+            'farms.json': 'yellow'
+        };
+
+        function normalizeMarkerSets(data) {
+            if (!data || typeof data !== 'object') return [];
+            if (data.group != null || data.markers) {
+                return [data];
+            }
+            return Object.values(data).filter(
+                set => set && typeof set === 'object' && (set.group != null || set.markers)
+            );
+        }
+
+        function colorForMarkerFile(filename) {
+            return FILE_COLOR[filename] || 'red';
+        }
+
+        function dialFromMarker(m) {
+            const dialField = (m.dial || '').trim();
+            if (dialField && dialField.toLowerCase() !== 'n/a') {
+                return dialField;
+            }
+            if (m.desc) {
+                const match = m.desc.match(/\/dial\s+([^\s<]+)/i);
+                if (match) return match[1];
+            }
+            return '';
+        }
+
         async function loadData() {
-            const [markerRes, railwayRes] = await Promise.all([
-                fetch('data/marker_world.json'),
+            const markerFetches = MARKER_FILES.map(file =>
+                fetch('data/' + file).then(async res => {
+                    if (!res.ok) throw new Error('Failed to load ' + file);
+                    return { file, data: await res.json() };
+                })
+            );
+
+            const [markerResults, railwayRes] = await Promise.all([
+                Promise.all(markerFetches),
                 fetch('data/railway.json')
             ]);
 
-            if (!markerRes.ok) {
-                throw new Error('Failed to load marker_world.json');
-            }
             if (!railwayRes.ok) {
                 throw new Error('Failed to load railway.json');
             }
 
-            const markerData = await markerRes.json();
             const railwayData = await railwayRes.json();
 
-            //marker_world.json points on map
             const pois = [];
-            if (markerData && markerData.sets) {
-                Object.values(markerData.sets).forEach(set => {
+            markerResults.forEach(({ file, data }) => {
+                const color = colorForMarkerFile(file);
+                normalizeMarkerSets(data).forEach(set => {
                     const category = set.group || 'Markers';
                     const markers = set.markers || {};
                     Object.values(markers).forEach(m => {
@@ -63,59 +110,11 @@
                         const z = Number(m.z);
                         if (Number.isNaN(x) || Number.isNaN(z)) return;
 
-                        let dial = '';
-                        if (m.desc) {
-                            const match = m.desc.match(/\/dial\s+([^\s<]+)/i);
-                            if (match) dial = match[1];
-                        }
-
-                        const labelLower = (m.label || '').toLowerCase();
-                        const infoLower = (m.info || '').toLowerCase();
-                        const catLower = (category || '').toLowerCase();
-
-                        let color = 'red';
-                        if (
-                            catLower.includes('shop') ||
-                            labelLower.includes('shop') ||
-                            infoLower.includes('shop')
-                        ) {
-                            color = 'green';
-                        } else if (
-                            catLower.includes('farm') ||
-                            labelLower.includes('farm') ||
-                            infoLower.includes('farm')
-                        ) {
-                            color = 'yellow';
-                        } else if (
-                            catLower.includes('pvp') ||
-                            labelLower.includes('pvp') ||
-                            infoLower.includes('pvp')
-                        ) {
-                            color = 'red';
-                        } else if (
-                            catLower.includes('wxt') ||
-                            labelLower.includes('wxt') ||
-                            infoLower.includes('wxt')
-                        ) {
-                            color = 'purple';
-                        } else if (
-                            catLower.includes('station') ||
-                            labelLower.includes('station') ||
-                            infoLower.includes('station')
-                        ) {
-                            color = 'blue';
-                        } else if (
-                            catLower.includes('other') ||
-                            labelLower.includes('other') ||
-                            infoLower.includes('other')
-                        ) {
-                            color = 'red';
-                        }
-
                         pois.push({
                             name: m.label || m.info || 'Unknown',
-                            dial: dial,
+                            dial: dialFromMarker(m),
                             info: m.info || '',
+                            desc: m.desc || '',
                             x: x,
                             z: z,
                             color: color,
@@ -123,7 +122,7 @@
                         });
                     });
                 });
-            }
+            });
 
             //railways
             const trenLines = [];
@@ -362,7 +361,7 @@
 
             map.addControl(new MapSelectorControl());
 
-            L.rectangle([[20, 20], [-20, -20]], { color: '#911', fill: false }).addTo(map).bindPopup("World Border");
+            L.rectangle([[20, 20], [-20, -20]], { color: '#ee6666', fill: false }).addTo(map).bindPopup("World Border");
 
             var groups = {};
             var railwayGroup = L.layerGroup().addTo(map);
@@ -382,7 +381,11 @@
                     name: poi.name,
                     searchText: [poi.name, poi.dial].filter(Boolean).join(' ◈ ')
                 }).addTo(groups[poi.category]);
-                marker.bindPopup(`<h3>${poi.name}</h3><mid>/dial <b>${poi.dial}</b></mid><br><sml>${poi.x}, ${poi.z}</sml><br><mid>${poi.info}<mid>`).openPopup();
+                const descHtml = (poi.desc || '').replace(/\r\n|\r|\n/g, '<br>');
+                marker.bindPopup(
+                    `<h3>${poi.name}</h3><mid>/dial <b>${poi.dial}</b></mid><br><sml>${poi.x}, ${poi.z}</sml><br><mid>${poi.info}</mid>` +
+                    (descHtml ? `<br><sml>${descHtml}</sml>` : '')
+                ).openPopup();
                 markers.push(marker);
             });
 
